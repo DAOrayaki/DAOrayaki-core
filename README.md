@@ -21,6 +21,10 @@ content/2021/2021-Q1/2021-07-21
 2021-07-21-Quadratic voting_ How mechanism design can radicalize democracy
 ```
 
+### 权限控制
+
+所有提交修改都在develop分支上进行，文档投票通过以后，由专人负责将其合并到main主分支中。
+
 ## 工作流程
 ### 任务发布
 任务发布者需要发起"Weekly Task" 或者 "Special Task"任务，并将任务Assign给相应的负责人，内容格式如下：
