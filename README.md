@@ -95,5 +95,5 @@ https://towardsdatascience.com/data-catalog-3-0-modern-metadata-for-the-modern-d
 文档的命名使用 Will <文档访问地址> pass ?来命名，如：
   
  ```
-  Will <> pass?
+  Will https://github.com/DAOrayaki/CONTENT/blob/main/2021/2021-Q3/2021-07-21/2021-07-21-%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3.txt pass?
  ```
