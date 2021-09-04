@@ -101,3 +101,6 @@ https://towardsdatascience.com/data-catalog-3-0-modern-metadata-for-the-modern-d
  ```
   Will https://github.com/DAOrayaki/CONTENT/blob/main/2021/2021-Q3/2021-07-21/2021-07-21-%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3.txt pass?
  ```
+### 结果发表
+  
+  投票通过后，需要在issue中@相应的负责人，负责人将文档合并到主分支，并通知负责发布内容的成员，将内容发布到各大渠道。
