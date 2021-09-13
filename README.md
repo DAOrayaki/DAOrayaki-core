@@ -19,7 +19,7 @@ DAOrayaki 是一个去中心化的研究者组织和去中心化媒体，通过 
 #### Smart Social Currency
 [Steemit(STEEM): 基于区块链的激励性社交媒体平台](https://daorayaki.org/steemit-steem-ji-yu-qu-kuai-lian-de-ji-li-xing-she-jiao-mei-ti-ping-tai/)
 
-### 本项目内容组织方式
+## 本项目内容组织方式
 
 #### 分支
 DAOrayaki共有两个分支：
@@ -52,4 +52,4 @@ content/2021/2021-Q1/2021-07-21
 
 微信：可直接@DAOrayaki /或搜索DAOrayaki-media  
 
-关于DAOrayki的详细介绍请参考 [wiki]()
+关于DAOrayki的详细介绍请参考 [wiki](../../wiki)
