@@ -1,4 +1,4 @@
-# DAOrayaki 内容管理
+# DAOrayaki
 ## DAOrayaki 介绍
 DAOrayaki 是一个去中心化的研究者组织和去中心化媒体，通过 DAO的形式去中心化地资助世界各地的研究者进行研究、翻译、分析等工作。DAOrayaki 由早期的 DAO 组织 DAOONE 核心成员发起，得到了Dora Factory基础设施的支持。自 2021 年 1 月以来，DAOrayaki 的贡献者网络已经深入覆盖了二次方资助、Futarchy、dGov、Moloch、算法治理、可回溯公共物品融资、奥斯特罗姆公共事务治理方法等数十个话题和以太坊生态研究成果。目前，我们已追踪研究53个DAO项目，发表 131 篇文章，普及了去中心化治理的知识和最新进展。
 
@@ -80,3 +80,15 @@ content/2021/2021-Q1/2021-07-21
 ```
 2021-07-21-Quadratic voting_ How mechanism design can radicalize democracy
 ```
+
+## 如何参与DAOrayaki
+### 内容贡献
+1）cover 与DAO相关的项目  
+2）翻译/原创与DAO治理相关的话题  
+联系：可直接@DAOctor /或搜索DAOrayaki-media
+
+### 社区治理机制讨论与设计
+
+微信：可直接@DAOrayaki /或搜索DAOrayaki-media  
+
+关于DAOrayki的详细介绍请参考 [wiki](../../wiki)
