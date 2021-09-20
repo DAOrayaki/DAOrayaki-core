@@ -45,7 +45,7 @@ DAOrayaki 是一个去中心化的研究者组织和去中心化媒体，通过 
 参与DAOrayaki社区治理机制的构建和设计。
 #### 为DAOrayaki捐款
 
-DAOrayaki目前正在gitcoin上申请GRANT，欢迎大家前往[捐款链接](https://gitcoin.co/grants/3356/daorayaki)卷矿。
+DAOrayaki目前正在gitcoin上申请GRANT，欢迎大家前往[捐款链接](https://gitcoin.co/grants/3356/daorayaki)为DAOrayaki捐款。
 
 ### 加入DAOrayaki
 您可以通过以下方式参与到DAOrayaki的社区当中，并且获得丰厚的社区激励。
