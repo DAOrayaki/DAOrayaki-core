@@ -40,7 +40,7 @@ DAOrayaki目前正在gitcoin上申请GRANT，欢迎大家前往[捐款链接](ht
 
 1) 微信：扫描下方二维码加入DAOrayaki中文社区。
 
-![DAO 联盟|Open DeFi DAO 治理结构](../DAOrayaki-core/imgs/wechat.jpeg)
+![DAO 联盟|Open DeFi DAO 治理结构](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/imgs/wechat.jpeg)
 
 2) discord: 点击[链接](https://discord.gg/hR7v3H8K)加入discord社区讨论。
 
