@@ -52,7 +52,7 @@ DAOrayaki目前正在gitcoin上申请GRANT，欢迎大家前往[捐款链接](ht
 
 1) 微信：扫描下方二维码加入DAOrayaki中文社区。
 
-![DAOrayaki中文社区](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/imgs/wechat.jpeg)
+![DAOrayaki中文社区](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/imgs/wechat.jpeg){:height="100px" width="100px"}
 
 2) discord: 点击[链接](https://discord.gg/hR7v3H8K)加入discord社区讨论。
 
