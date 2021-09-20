@@ -4,9 +4,21 @@ DAOrayaki 是一个去中心化的研究者组织和去中心化媒体，通过 
 
 通过 DAO，研究组织和媒体可以打破地域的限制，以社区的方式资助和生产内容。DAOrayaki将会通过DAO的形式，构建一个满足人们需求，一个民主治理和所有人都可以利用的公共媒体系统，从而实现真正意义上的去中心化。
 ## DAOrayaki 最新研究
-[DAOrayaki｜算法治理实验：DAO治理动态、韧性及崩溃](https://daorayaki.org/daorayaki-suan-fa-zhi-li-shi-yan-daozhi-li-dong-tai-ren-xing-ji-beng-kui/)  
+[DAOrayaki｜NFT 市场：去中心化的创造力还是 1990 年代的电子商务](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-nft-shi-chang-qu-zhong-xin-hua-de-chuang-zao-li-huan-shi-1990-nian-dai-de-dian-zi-shang-wu.md)  
+[DAOrayaki | Gas成本和选民参与](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-gascheng-ben-he-xuan-min-can-yu.md)  
+[BanklessDAO: 无银行革命](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/banklessdao.md)  
+[DAOrayaki Reserach |FlamingoDAO: 第一个由 LAO 社区孵化和构建的 DAO](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/flamingodao.md)  
+[DAOrayaki Reserach |Jenny Metaverse DAO: 以更低的成本获得真正的数字所有权](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/jenny-metaverse-dao.md)  
+[DAOrayaki Reserach |PleasrDAO: 以代币的形式分配 DAO 的所有权](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/pleasrdao.md)  
+[DAOrayaki｜DAO 的漏洞：自治的假想与治理弹性评估模型](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-dao-de-lou-dong-zi-zhi-de-jia-xiang-yu-zhi-li-dan-xing-ping-gu-mo-xing.md)  
+[DAOrayaki｜文艺复兴时期的创造者和下一个媒体模式的崛起](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-wen-yi-fu-xing-shi-qi-de-chuang-zao-zhe-he-xia-yi-ge-mei-ti-mo-shi-de-jue-qi.md)  
+[DAOrayaki｜公地弹性：去中心化技术社区治理中的“弹性”](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-gong-di-dan-xing-qu-zhong-xin-hua-ji-zhu-she-qu-zhi-li-zhong-de-dan-xing.md)  
+[DAOrayaki｜去中心化媒体：web 3.0时代民主、隐私与价值共享的机遇](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-qu-zhong-xin-hua-mei-ti-web-3-0shi-dai-min-zhu-yin-si-yu-jie-zhi-gong-xiang-de-ji-yu.md)  
+
+
+<!-- [DAOrayaki｜算法治理实验：DAO治理动态、韧性及崩溃](https://daorayaki.org/daorayaki-suan-fa-zhi-li-shi-yan-daozhi-li-dong-tai-ren-xing-ji-beng-kui/)  
 [DAOrayaki｜打破媒体第四面墙：观众和创作者的融合](https://daorayaki.org/daorayaki-da-po-mei-ti-di-si-mian-qiang-guan-zhong-he-chuang-zuo-zhe-de-rong-he/)  
-[DAOrayaki｜MetaCartel——一个由创建者和运营商构建去中心化应用的生态系统](https://daorayaki.org/metacartel-yi-ge-you-chuang-jian-zhe-he-yun-ying-shang-gou-jian-qu-zhong-xin-hua-ying-yong-de-sheng-tai-xi-tong/)
+[DAOrayaki｜MetaCartel——一个由创建者和运营商构建去中心化应用的生态系统](https://daorayaki.org/metacartel-yi-ge-you-chuang-jian-zhe-he-yun-ying-shang-gou-jian-qu-zhong-xin-hua-ying-yong-de-sheng-tai-xi-tong/) -->
 
 ### DAOrayaki 治理机制
 
@@ -40,7 +52,7 @@ DAOrayaki目前正在gitcoin上申请GRANT，欢迎大家前往[捐款链接](ht
 
 1) 微信：扫描下方二维码加入DAOrayaki中文社区。
 
-![DAO 联盟|Open DeFi DAO 治理结构](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/imgs/wechat.jpeg)
+![DAOrayaki中文社区](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/imgs/wechat.jpeg)
 
 2) discord: 点击[链接](https://discord.gg/hR7v3H8K)加入discord社区讨论。
 
@@ -123,7 +135,7 @@ DAOrayaki目前正在gitcoin上申请GRANT，欢迎大家前往[捐款链接](ht
 [全面综述：女巫攻击和防御方法](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/quan-mian-zong-shu-nu-wu-gong-ji-he-fang-yu-fang-fa.md)  
 [依靠钱包追踪鲸鱼活动](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/yi-kao-qian-bao-zhui-zong-jing-yu-huo-dong.md)  
 [DAOrayaki｜DAO 的漏洞：自治的假想与治理弹性评估模型](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-dao-de-lou-dong-zi-zhi-de-jia-xiang-yu-zhi-li-dan-xing-ping-gu-mo-xing.md)  
-
+[DAOrayaki | Gas成本和选民参与](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-gascheng-ben-he-xuan-min-can-yu.md)  
 #### DAO应用研究
 ##### DeFi
 [DAO 联盟|Open DeFi DAO 治理结构](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/dao-lian-meng-open-defi-dao-zhi-li-jie-gou.md)  
@@ -144,6 +156,8 @@ DAOrayaki目前正在gitcoin上申请GRANT，欢迎大家前往[捐款链接](ht
 [DAOrayaki｜去中心化媒体：web 3.0时代民主、隐私与价值共享的机遇](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-qu-zhong-xin-hua-mei-ti-web-3-0shi-dai-min-zhu-yin-si-yu-jie-zhi-gong-xiang-de-ji-yu.md)  
 [DAOrayaki｜文艺复兴时期的创造者和下一个媒体模式的崛起](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-wen-yi-fu-xing-shi-qi-de-chuang-zao-zhe-he-xia-yi-ge-mei-ti-mo-shi-de-jue-qi.md)  
 
+#### NFT
+[DAOrayaki｜NFT 市场：去中心化的创造力还是 1990 年代的电子商务](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-nft-shi-chang-qu-zhong-xin-hua-de-chuang-zao-li-huan-shi-1990-nian-dai-de-dian-zi-shang-wu.md)  
 
 ### DAO相关项目
 #### 媒体DAO
