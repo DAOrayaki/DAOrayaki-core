@@ -27,7 +27,7 @@
 
    
 <details>
-   <summary>  📫 <b> <font size="4">DAOrayakiTreasury </font> </b>      </summary>  
+   <summary>  📫 <b> <font size="4">DAOrayaki Treasury </font> </b>      </summary>  
    
 
 2021 年 6 月 15 日，DAOrayaki 使用 Dora Factory 提供的基础设施在 BSC 主网上部署名为“DAOrayaki DAO”的 Funder DAO。这是一个基于 Moloch 的 DAO，供成员促进去中心化基金管理、处理新成员申请、提交提案、怒退、资助内容等。考虑到安全及效率，现在，DAOrayaki treasury (Gnosis Safe) 通过多签钱包管理。 DAOrayaki 使用多重签名钱包来协调资助者和研究内容贡献者。
