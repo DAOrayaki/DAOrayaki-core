@@ -23,7 +23,8 @@ DAOrayaki 是一个去中心化的研究者组织和去中心化媒体，通过 
 <details>
     <summary> 如何参与DAOrayaki </summary>
     
-内容贡献
+内容贡献 
+    
 1）cover 与DAO相关的项目
     
 2）翻译/原创与DAO治理相关的话题
@@ -63,6 +64,15 @@ github：您可以直接使用github的issue功能进行留言和评论。
 3. Governance Advice。如果关于DAOrayaki的治理，您有一些令人兴奋的想法，可以提此类型的issue。
 4. Other Advice。如果您的提议不在以上列表中，您可以提此类型的issue。    
 
+</details>
+
+<details>
+    <summary> 联系我们 </summary>
+    官网：https://daorayaki.org    
+    Discord: 点击[链接](https://discord.gg/hR7v3H8K)加入discord社区讨论
+    Twitter: @orayakida
+    微信公众号：Dorafactory  
+    微信助手：DAOrayaki-media
 </details>
 
 ## DAOrayaki 最新研究
