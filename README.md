@@ -12,7 +12,7 @@ DAOrayaki 是一个去中心化的研究者组织和去中心化媒体，通过 
     以DAO作为资助、研究、传播的组织形式，利用其独特的治理结构和机制来运行生态。读者可以直接资助DAO并参与治理，选举执行团队，制定规则和内容标准，并根据规则激励整个生态系统。
 
 在DAOrayaki早期，委员会采用简单的多数投票机制，投票结果>50%的文章可以发表。目前，DAOrayaki 委员会的投票机制已升级为采用 MolochDAO 的投票机制。
-</detials>
+</details>
 
 <details>
     <summary> DAOrayaki的Treasury </summary>
