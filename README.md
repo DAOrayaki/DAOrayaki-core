@@ -1,11 +1,13 @@
 # DAOrayaki
 ## [DAOrayaki WiKi](../../wiki)
+
 <details>
-    <summary> ## DAOrayaki 介绍 </summary>
+    <summary> DAOrayaki 介绍 </summary>
 DAOrayaki 是一个去中心化的研究者组织和去中心化媒体，通过 DAO的形式去中心化地资助世界各地的研究者进行研究、翻译、分析等工作。DAOrayaki 由早期的 DAO 组织 DAOONE 核心成员发起，得到了Dora Factory基础设施的支持。自 2021 年 1 月以来，DAOrayaki 的贡献者网络已经深入覆盖了二次方资助、Futarchy、dGov、Moloch、算法治理、可回溯公共物品融资、奥斯特罗姆公共事务治理方法等数十个话题和以太坊生态研究成果。目前，我们已追踪研究53个DAO项目，发表 131 篇文章，普及了去中心化治理的知识和最新进展。
 
 通过 DAO，研究组织和媒体可以打破地域的限制，以社区的方式资助和生产内容。DAOrayaki将会通过DAO的形式，构建一个满足人们需求，一个民主治理和所有人都可以利用的公共媒体系统，从而实现真正意义上的去中心化。
 </details>
+
 ## DAOrayaki 最新研究
 [DAOrayaki｜NFT 市场：去中心化的创造力还是 1990 年代的电子商务](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-nft-shi-chang-qu-zhong-xin-hua-de-chuang-zao-li-huan-shi-1990-nian-dai-de-dian-zi-shang-wu.md)  
 [DAOrayaki | Gas成本和选民参与](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-gascheng-ben-he-xuan-min-can-yu.md)  
