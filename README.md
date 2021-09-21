@@ -67,12 +67,12 @@ github：您可以直接使用github的issue功能进行留言和评论。
 </details>
 
 <details>
-    <summary> 联系我们 </summary>
-    官网：https://daorayaki.org    
-    Discord: 点击[链接](https://discord.gg/hR7v3H8K)加入discord社区讨论
-    Twitter: @orayakida
-    微信公众号：Dorafactory  
-    微信助手：DAOrayaki-media
+    <summary> 联系我们 </summary>  
+    官网：https://daorayaki.org     
+    Discord: 点击[链接](https://discord.gg/hR7v3H8K)加入discord社区讨论  
+    Twitter: @orayakida  
+    微信公众号：Dorafactory    
+    微信助手：DAOrayaki-media  
 </details>
 
 ## DAOrayaki 最新研究
