@@ -104,7 +104,10 @@ Twitter: @orayakida
 [DAOrayaki｜MetaCartel——一个由创建者和运营商构建去中心化应用的生态系统](https://daorayaki.org/metacartel-yi-ge-you-chuang-jian-zhe-he-yun-ying-shang-gou-jian-qu-zhong-xin-hua-ying-yong-de-sheng-tai-xi-tong/) -->
 
 ## DAOrayaki 研究专题（持续更新）
-### DAO DGov专题
+
+<details>
+   <summary>  👋🌱 <b> <font size="4">DAO DGov专题</font> </b> 🌱👋     </summary>  
+
 #### 🌱 DAO的构建与设计
 
 [什么是社区贡献机会（CCO）](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/shi-yao-shi-she-qu-gong-xian-ji-hui-cco.md)  
@@ -231,10 +234,10 @@ Twitter: @orayakida
 [DAOrayaki｜去中心化媒体：web 3.0时代民主、隐私与价值共享的机遇](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-qu-zhong-xin-hua-mei-ti-web-3-0shi-dai-min-zhu-yin-si-yu-jie-zhi-gong-xiang-de-ji-yu.md)  
 [DAOrayaki｜文艺复兴时期的创造者和下一个媒体模式的崛起](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-wen-yi-fu-xing-shi-qi-de-chuang-zao-zhe-he-xia-yi-ge-mei-ti-mo-shi-de-jue-qi.md)  
 
-
-### DAO应用专题
-
-
+</details>
+<details>
+   <summary>  👋🌱 <b> <font size="4">DAO应用专题</font> </b> 🌱👋     </summary>  
+   
 #### 🔭 DAO操作系统/基础设施
 [DAOrayaki Research | SubDAO(ENG&CHN) - DAOrayaki](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/daorayaki-research-basketdao-eng-chn-daorayakidaorayakiread-more-posts-by-this-author.md)  
 [DuckDAO&Dora Factory： 为开源项目赋能](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/duckdao-dora-factory.md)  
@@ -309,6 +312,7 @@ Twitter: @orayakida
 [Finane.vote: 民主化DeFi.](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/finane-vote-min-zhu-hua-defi.md)  
 [BanklessDAO: 无银行革命](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/banklessdao.md)  
 
+</details>
 
 ## 本项目内容组织方式
 
