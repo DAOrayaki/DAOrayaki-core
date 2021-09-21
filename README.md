@@ -34,30 +34,21 @@
    <summary> ⚡ <b> <font size="4">如何参与DAOrayaki </font> </b>      </summary>  
    
 
-#### 内容贡献 
+#### - 内容贡献 
     
 1）cover 与DAO相关的项目
     
 2）翻译/原创与DAO治理相关的话题
 
-#### -话题建议
+#### - 话题建议
 如果您有感兴趣的话题，希望DAOrayaki的小伙伴进行研究，可以联系我们或者直接在本项目中提交issue，详细规则参考wiki.
 
-#### -社区治理机制讨论与设计
+#### - 社区治理机制讨论与设计
 参与DAOrayaki社区治理机制的构建和设计。
 
-#### -为DAOrayaki捐款
+#### - 为DAOrayaki捐款
 DAOrayaki目前正在gitcoin上申请GRANT，欢迎大家前往捐款。
-
-#### -加入DAOrayaki
-您可以通过以下方式参与到DAOrayaki的社区当中，并且获得丰厚的社区激励。
-
-微信：扫描下方二维码加入DAOrayaki中文社区。
-
-discord: 点击链接加入discord社区讨论。
-
-github：您可以直接使用github的issue功能进行留言和评论。
-   
+ 
  </details>
    
  <details>
