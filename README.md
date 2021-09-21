@@ -98,15 +98,7 @@ github：您可以直接使用github的issue功能进行留言和评论。
 [DAOrayaki｜打破媒体第四面墙：观众和创作者的融合](https://daorayaki.org/daorayaki-da-po-mei-ti-di-si-mian-qiang-guan-zhong-he-chuang-zuo-zhe-de-rong-he/)  
 [DAOrayaki｜MetaCartel——一个由创建者和运营商构建去中心化应用的生态系统](https://daorayaki.org/metacartel-yi-ge-you-chuang-jian-zhe-he-yun-ying-shang-gou-jian-qu-zhong-xin-hua-ying-yong-de-sheng-tai-xi-tong/) -->
 
-### DAOrayaki 治理机制
-
-以DAO作为资助、研究、传播的组织形式，利用其独特的治理结构和机制来运行生态。读者可以直接资助DAO并参与治理，选举执行团队，制定规则和内容标准，并根据规则激励整个生态系统。
-
-在DAOrayaki早期，委员会采用简单的多数投票机制，投票结果>50%的文章可以发表。目前，DAOrayaki 委员会的投票机制已升级为采用 MolochDAO 的投票机制。
-
-欢迎各位小伙伴参与DAOrayaki社区治理机制的设计与讨论
-
-### 如何参与DAOrayaki
+<!-- ### 如何参与DAOrayaki
 #### 内容贡献
 1）cover 与DAO相关的项目  
 2）翻译/原创与DAO治理相关的话题  
@@ -134,11 +126,11 @@ DAOrayaki目前正在gitcoin上申请GRANT，欢迎大家前往[捐款链接](ht
 
 2) discord: 点击[链接](https://discord.gg/hR7v3H8K)加入discord社区讨论。
 
-3) github：您可以直接使用github的issue功能进行留言和评论，具体规则参考[wiki](../../wiki)
+3) github：您可以直接使用github的issue功能进行留言和评论，具体规则参考[wiki](../../wiki) -->
 
     
-## DAOrayaki的过往研究
-### DAO相关研究
+## DAOrayaki 研究专题（持续更新）
+### DAO DGov专题
 #### 基础研究
 
 ##### DAO基础
@@ -237,7 +229,8 @@ DAOrayaki目前正在gitcoin上申请GRANT，欢迎大家前往[捐款链接](ht
 #### NFT
 [DAOrayaki｜NFT 市场：去中心化的创造力还是 1990 年代的电子商务](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-nft-shi-chang-qu-zhong-xin-hua-de-chuang-zao-li-huan-shi-1990-nian-dai-de-dian-zi-shang-wu.md)  
 
-### DAO相关项目
+### DAO应用专题
+
 #### 媒体DAO
 [Dora Factory支持去中心化DAO研究组织DAOrayaki](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/dao-media.md)  
 #### DAO操作系统
