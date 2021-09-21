@@ -238,7 +238,7 @@ WeChat Assistant：DAOrayaki-media
 
 </details>
 <details>
-   <summary>  👋🌱 <b> <font size="4">applications</font> </b> 🌱👋     </summary>  
+   <summary>  👋🌱 <b> <font size="4">Applications</font> </b> 🌱👋     </summary>  
    
 #### 🔭 DAO Operating Systerms/Infrastructure
 [DAOrayaki Research | SubDAO(ENG&CHN) - DAOrayaki](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/daorayaki-research-basketdao-eng-chn-daorayakidaorayakiread-more-posts-by-this-author.md)  
