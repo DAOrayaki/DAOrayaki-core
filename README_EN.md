@@ -61,12 +61,12 @@ DAOrayaki is currently applying for GRANT on gitcoin, welcome to donate.
  <details>
    <summary>  💬 <b> <font size="4"> Submit Proposals to DAOrayaki through Github</font> </b>      </summary>  
     
-If you find that the content of DAOrayaki’s past articles is out of date, or if you have something that you hope DAOrayaki to research on your behalf, or you have a very tempting idea to tell the DAOrayaki community, you can use the issue function of Github to propose to the community, and community members will Your proposal is carefully reviewed and discussed.
+If you find that the content of DAOrayaki’s past articles is out of date, or if you have some topic that you wish DAOrayaki to research, or you have a very interesting idea to tell the DAOrayaki community, you can use the issue function of Github to propose to the community, DAOrayaki will carefully review and discuss your proposals.
    
 Currently, DAOrayaki github channels have four types of proposals:
-1. Topic Advice. If you have a project, article or topic that you want DAOrayaki to research on your behalf, you can submit this type of issue.
-2. Content Outdate. If you find that the content of DAOrayaki in the past is out of date, you can submit this type of issue.
-3. Governance Advice. If you have some exciting ideas about the governance of DAOrayaki, you can raise this type of issue.
+1. Topic Advice. If you have a project, article or topic that you wish DAOrayaki to research, you can submit this type of issue.
+2. Content Outdate. If you find that the content of any DAOrayaki articles is out of date, you can submit this type of issue.
+3. Governance Advice. If you have some exciting ideas about the governance of DAOrayaki, you can submit this type of issue.
 4. Other Advice. If your proposal is not in the above list, you can submit this type of issue. 
 
       </details>
