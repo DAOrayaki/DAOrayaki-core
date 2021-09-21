@@ -1,4 +1,4 @@
-# DAOrayaki
+# DAOrayaki [English]（ss）
 
 <details>
    <summary>  👋
