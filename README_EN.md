@@ -87,7 +87,7 @@ Twitter: @orayakida
 
 </details>
 
-## DAOrayaki Newest Research
+## DAOrayaki Latest Research
 ### 💡 最新 DGov 研究
 [DAOrayaki｜NFT 市场：去中心化的创造力还是 1990 年代的电子商务](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-nft-shi-chang-qu-zhong-xin-hua-de-chuang-zao-li-huan-shi-1990-nian-dai-de-dian-zi-shang-wu.md)  
 [DAOrayaki | Gas成本和选民参与](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-gascheng-ben-he-xuan-min-can-yu.md)  
@@ -104,10 +104,10 @@ Twitter: @orayakida
 [DAOrayaki｜打破媒体第四面墙：观众和创作者的融合](https://daorayaki.org/daorayaki-da-po-mei-ti-di-si-mian-qiang-guan-zhong-he-chuang-zuo-zhe-de-rong-he/)  
 [DAOrayaki｜MetaCartel——一个由创建者和运营商构建去中心化应用的生态系统](https://daorayaki.org/metacartel-yi-ge-you-chuang-jian-zhe-he-yun-ying-shang-gou-jian-qu-zhong-xin-hua-ying-yong-de-sheng-tai-xi-tong/) -->
 
-## DAOrayaki 研究专题（持续更新）
+## DAOrayaki Researches (Continually Updating)
 
 <details>
-   <summary>  👋🌱 <b> <font size="4">DAO DGov专题</font> </b> 🌱👋     </summary>  
+   <summary>  👋🌱 <b> <font size="4">DAO DGov Topic</font> </b> 🌱👋     </summary>  
 
 #### 🌱 DAO的构建与设计
 
