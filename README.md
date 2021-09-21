@@ -1,5 +1,4 @@
 # DAOrayaki
-## [DAOrayaki WiKi](../../wiki)
 
 <details>
     <summary> DAOrayaki 介绍 </summary>
@@ -7,6 +6,47 @@ DAOrayaki 是一个去中心化的研究者组织和去中心化媒体，通过 
 
 通过 DAO，研究组织和媒体可以打破地域的限制，以社区的方式资助和生产内容。DAOrayaki将会通过DAO的形式，构建一个满足人们需求，一个民主治理和所有人都可以利用的公共媒体系统，从而实现真正意义上的去中心化。
 </details>
+
+<details>
+    <summary> DAOrayaki的治理机制 </summary>
+    以DAO作为资助、研究、传播的组织形式，利用其独特的治理结构和机制来运行生态。读者可以直接资助DAO并参与治理，选举执行团队，制定规则和内容标准，并根据规则激励整个生态系统。
+
+在DAOrayaki早期，委员会采用简单的多数投票机制，投票结果>50%的文章可以发表。目前，DAOrayaki 委员会的投票机制已升级为采用 MolochDAO 的投票机制。
+</detials>
+
+<details>
+    <summary> DAOrayaki的Treasury </summary>
+    2021 年 6 月 15 日，DAOrayaki 使用 Dora Factory 提供的基础设施在 BSC 主网上部署名为“DAOrayaki DAO”的 Funder DAO。这是一个基于 Moloch 的 DAO，供成员促进去中心化基金管理、处理新成员申请、提交提案、怒退、资助内容等。考虑到安全及效率，现在，DAOrayaki treasury (Gnosis Safe) 通过多签钱包管理。 DAOrayaki 使用多重签名钱包来协调资助者和研究内容贡献者。
+</detials>
+
+
+<details>
+    <summary> 如何参与DAOrayaki </summary>
+    
+内容贡献
+1）cover 与DAO相关的项目
+    
+2）翻译/原创与DAO治理相关的话题
+
+话题建议
+如果您有感兴趣的话题，希望DAOrayaki的小伙伴进行研究，可以联系我们或者直接在本项目中提交issue，详细规则参考wiki.
+
+社区治理机制讨论与设计
+参与DAOrayaki社区治理机制的构建和设计。
+
+为DAOrayaki捐款
+DAOrayaki目前正在gitcoin上申请GRANT，欢迎大家前往捐款链接卷矿。
+
+加入DAOrayaki
+您可以通过以下方式参与到DAOrayaki的社区当中，并且获得丰厚的社区激励。
+
+微信：扫描下方二维码加入DAOrayaki中文社区。
+
+
+discord: 点击链接加入discord社区讨论。
+
+github：您可以直接使用github的issue功能进行留言和评论。
+</detials>
 
 ## DAOrayaki 最新研究
 [DAOrayaki｜NFT 市场：去中心化的创造力还是 1990 年代的电子商务](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-nft-shi-chang-qu-zhong-xin-hua-de-chuang-zao-li-huan-shi-1990-nian-dai-de-dian-zi-shang-wu.md)  
