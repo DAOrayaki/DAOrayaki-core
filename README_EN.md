@@ -70,7 +70,7 @@ DAOrayaki目前正在gitcoin上申请GRANT，欢迎大家前往捐款。
       </details>
 
     <details>
-   <summary>  ❤ <b> <font size="4"> 联系我们</font> </b>   </summary>  
+   <summary>  ❤ <b> <font size="4"> Contact Us</font> </b>   </summary>  
        
 
 官网：https://daorayaki.org     
@@ -86,7 +86,7 @@ Twitter: @orayakida
 
 </details>
 
-## DAOrayaki 最新研究
+## DAOrayaki Newest Research
 ### 💡 最新 DGov 研究
 [DAOrayaki｜NFT 市场：去中心化的创造力还是 1990 年代的电子商务](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-nft-shi-chang-qu-zhong-xin-hua-de-chuang-zao-li-huan-shi-1990-nian-dai-de-dian-zi-shang-wu.md)  
 [DAOrayaki | Gas成本和选民参与](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-gascheng-ben-he-xuan-min-can-yu.md)  
