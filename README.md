@@ -236,7 +236,7 @@ Twitter: @orayakida
 
 </details>
 <details>
-   <summary>  👋🌱 <b> <font size="4">DAO应用专题</font> </b> 🌱👋     </summary>  
+   <summary>  👋🌱 <b> <font size="4">DAO 应用专题</font> </b> 🌱👋     </summary>  
    
 #### 🔭 DAO操作系统/基础设施
 [DAOrayaki Research | SubDAO(ENG&CHN) - DAOrayaki](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/daorayaki-research-basketdao-eng-chn-daorayakidaorayakiread-more-posts-by-this-author.md)  
