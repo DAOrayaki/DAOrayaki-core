@@ -10,7 +10,7 @@
 
 
 <details>
-   <summary>  👋🌱 <b> <font size="4">DAOrayaki的治理机制 </font> </b> 🌱👋     </summary>
+   <summary>  🔭 <b> <font size="4">DAOrayaki的治理机制 </font> </b>    </summary>
 
 以DAO作为资助、研究、传播的组织形式，利用其独特的治理结构和机制来运行生态。读者可以直接资助DAO并参与治理，选举执行团队，制定规则和内容标准，并根据规则激励整个生态系统。
 
@@ -21,7 +21,7 @@
 
    
 <details>
-   <summary>  👋🌱 <b> <font size="4">DAOrayaki的Treasury </font> </b> 🌱👋     </summary>
+   <summary>  📫 <b> <font size="4">DAOrayaki的Treasury </font> </b>      </summary>
 
 2021 年 6 月 15 日，DAOrayaki 使用 Dora Factory 提供的基础设施在 BSC 主网上部署名为“DAOrayaki DAO”的 Funder DAO。这是一个基于 Moloch 的 DAO，供成员促进去中心化基金管理、处理新成员申请、提交提案、怒退、资助内容等。考虑到安全及效率，现在，DAOrayaki treasury (Gnosis Safe) 通过多签钱包管理。 DAOrayaki 使用多重签名钱包来协调资助者和研究内容贡献者。
 
@@ -29,7 +29,7 @@
 
    
 <details>
-   <summary>  👋🌱 <b> <font size="4">如何参与DAOrayaki </font> </b> 🌱👋     </summary>
+   <summary> ⚡ <b> <font size="4">如何参与DAOrayaki </font> </b>      </summary>
 
 #### 内容贡献 
     
@@ -57,15 +57,8 @@ github：您可以直接使用github的issue功能进行留言和评论。
    
  </details>
    
-<details>
-   <summary>  👋🌱 <b> <font size="4">DAOrayaki的Treasury</font> </b> 🌱👋     </summary>
-
-2021 年 6 月 15 日，DAOrayaki 使用 Dora Factory 提供的基础设施在 BSC 主网上部署名为“DAOrayaki DAO”的 Funder DAO。这是一个基于 Moloch 的 DAO，供成员促进去中心化基金管理、处理新成员申请、提交提案、怒退、资助内容等。考虑到安全及效率，现在，DAOrayaki treasury (Gnosis Safe) 通过多签钱包管理。 DAOrayaki 使用多重签名钱包来协调资助者和研究内容贡献者。
-   
-  </details>
-   
  <details>
-   <summary>  👋🌱 <b> <font size="4"> 通过Github向DAOryaki提议</font> </b> 🌱👋     </summary>
+   <summary>  💬 <b> <font size="4"> 通过Github向DAOryaki提议</font> </b>      </summary>
 
 如果您发现DAOrayaki的过往文章内容已经过时、您有希望DAOrayaki代为研究的内容或者您有一个非常诱人的想法想要告诉DAOrayaki社区，您可以通过Github的issue功能来向社区提议，社区成员会对您的提议认真审核并且讨论。
 
@@ -78,7 +71,7 @@ github：您可以直接使用github的issue功能进行留言和评论。
       </details>
 
     <details>
-   <summary>  👋🌱 <b> <font size="4"> 联系我们</font> </b> 🌱👋     </summary>
+   <summary>  ❤ <b> <font size="4"> 联系我们</font> </b>   </summary>
 
 官网：https://daorayaki.org     
     
@@ -90,7 +83,7 @@ Twitter: @orayakida
     
 微信助手：DAOrayaki-media  
        
-         </details>
+</details>
 </details>
 
 ## DAOrayaki 最新研究
