@@ -104,7 +104,7 @@ Twitter: @orayakida
 [DAOrayaki｜MetaCartel——一个由创建者和运营商构建去中心化应用的生态系统](https://daorayaki.org/metacartel-yi-ge-you-chuang-jian-zhe-he-yun-ying-shang-gou-jian-qu-zhong-xin-hua-ying-yong-de-sheng-tai-xi-tong/) -->
 
 ## DAOrayaki 研究专题（持续更新）
-### 💡 DAO DGov专题 💡
+### DAO DGov专题
 #### 🌱 DAO的构建与设计
 
 [什么是社区贡献机会（CCO）](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/shi-yao-shi-she-qu-gong-xian-ji-hui-cco.md)  
