@@ -12,6 +12,7 @@
 
 通过 DAO，研究组织和媒体可以打破地域的限制，以社区的方式资助和生产内容。**DAOrayaki**将会通过DAO的形式，构建一个满足人们需求，一个民主治理和所有人都可以利用的公共媒体系统，从而实现真正意义上的去中心化。
 
+</details>
 
 <details>
    <summary>  🔭 <b> <font size="4">DAOrayaki的治理机制 </font> </b>    </summary>  
@@ -83,7 +84,7 @@ Twitter: @orayakida
     
 微信助手：DAOrayaki-media  
        
-</details>
+
 </details>
 
 ## DAOrayaki 最新研究
