@@ -2,11 +2,9 @@
 # DAOrayaki 
 
 <details>
-   <summary>  👋 <b> <font size="4">DAOrayaki介绍</font> </b>    </summary>  
+   <summary>  👋 <b> <font size="4">what is DAOrayaki</font> </b>    </summary>  
    -  
    
-   **一个民主治理和所有人都可以利用的公共媒体系统**
-
    **To empower people，we must decentralization information**
 
 **DAOrayaki** 是一个去中心化的研究者组织和去中心化媒体，通过 DAO的形式去中心化地资助世界各地的研究者进行研究、翻译、分析等工作。**DAOrayaki** 由早期的 DAO 组织 DAOONE 核心成员发起，得到了Dora Factory基础设施的支持。自 2021 年 1 月以来，**DAOrayaki** 的贡献者网络已经深入覆盖了二次方资助、Futarchy、dGov、Moloch、算法治理、可回溯公共物品融资、奥斯特罗姆公共事务治理方法等数十个话题和以太坊生态研究成果。目前，我们已追踪研究53个DAO项目，发表 131 篇文章，普及了去中心化治理的知识和最新进展。
@@ -16,7 +14,7 @@
 </details>
 
 <details>
-   <summary>  🔭 <b> <font size="4">DAOrayaki治理机制 </font> </b>    </summary>  
+   <summary>  🔭 <b> <font size="4">DAOrayaki's Governance Mechanism </font> </b>    </summary>  
    
 
 以DAO作为资助、研究、传播的组织形式，利用其独特的治理结构和机制来运行生态。读者可以直接资助DAO并参与治理，选举执行团队，制定规则和内容标准，并根据规则激励整个生态系统。
@@ -37,7 +35,7 @@
 
    
 <details>
-   <summary> ⚡ <b> <font size="4">如何参与DAOrayaki </font> </b>      </summary>  
+   <summary> ⚡ <b> <font size="4">How to Contribute to DAOrayaki </font> </b>      </summary>  
    
 
 #### - 内容贡献 
@@ -58,7 +56,7 @@ DAOrayaki目前正在gitcoin上申请GRANT，欢迎大家前往捐款。
  </details>
    
  <details>
-   <summary>  💬 <b> <font size="4"> 通过Github向DAOrayaki提案</font> </b>      </summary>  
+   <summary>  💬 <b> <font size="4"> Proposal to DAOrayaki by Github</font> </b>      </summary>  
     
 
 如果您发现DAOrayaki的过往文章内容已经过时、您有希望DAOrayaki代为研究的内容或者您有一个非常诱人的想法想要告诉DAOrayaki社区，您可以通过Github的issue功能来向社区提议，社区成员会对您的提议认真审核并且讨论。
