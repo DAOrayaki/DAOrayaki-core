@@ -1,7 +1,7 @@
 # DAOrayaki 
 
 <details>
-   <summary>  👋🌱 <b> <font size="4">DAOrayaki介绍</font> </b> 🌱👋     </summary>  
+   <summary>  👋 <b> <font size="4">DAOrayaki介绍</font> </b>    </summary>  
    -  
    
    **一个民主治理和所有人都可以利用的公共媒体系统**
