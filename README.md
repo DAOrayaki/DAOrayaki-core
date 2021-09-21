@@ -17,7 +17,7 @@ DAOrayaki 是一个去中心化的研究者组织和去中心化媒体，通过 
 <details>
     <summary> DAOrayaki的Treasury </summary>
     2021 年 6 月 15 日，DAOrayaki 使用 Dora Factory 提供的基础设施在 BSC 主网上部署名为“DAOrayaki DAO”的 Funder DAO。这是一个基于 Moloch 的 DAO，供成员促进去中心化基金管理、处理新成员申请、提交提案、怒退、资助内容等。考虑到安全及效率，现在，DAOrayaki treasury (Gnosis Safe) 通过多签钱包管理。 DAOrayaki 使用多重签名钱包来协调资助者和研究内容贡献者。
-</detials>
+</details>
 
 
 <details>
@@ -46,7 +46,24 @@ DAOrayaki目前正在gitcoin上申请GRANT，欢迎大家前往捐款链接卷�
 discord: 点击链接加入discord社区讨论。
 
 github：您可以直接使用github的issue功能进行留言和评论。
-</detials>
+</details>
+
+<details>
+    <summary> DAOrayaki的Treasury </summary>
+    2021 年 6 月 15 日，DAOrayaki 使用 Dora Factory 提供的基础设施在 BSC 主网上部署名为“DAOrayaki DAO”的 Funder DAO。这是一个基于 Moloch 的 DAO，供成员促进去中心化基金管理、处理新成员申请、提交提案、怒退、资助内容等。考虑到安全及效率，现在，DAOrayaki treasury (Gnosis Safe) 通过多签钱包管理。 DAOrayaki 使用多重签名钱包来协调资助者和研究内容贡献者。
+</details>
+
+<details>
+    <summary> 通过Github向DAOryaki提议 </summary>
+如果您发现DAOrayaki的过往文章内容已经过时、您有希望DAOrayaki代为研究的内容或者您有一个非常诱人的想法想要告诉DAOrayaki社区，您可以通过Github的issue功能来向社区提议，社区成员会对您的提议认真审核并且讨论。
+
+目前，DAOrayaki github渠道共有四种提议类型可选：
+1. Topic Advice。如果你有希望DAOrayaki代为研究的项目、文章或者话题，可以提此类型的issue。
+2. Content Outdate。如果您发现往期DAOrayaki的内容已经过时，可以提此类型的issue。
+3. Governance Advice。如果关于DAOrayaki的治理，您有一些令人兴奋的想法，可以提此类型的issue。
+4. Other Advice。如果您的提议不在以上列表中，您可以提此类型的issue。    
+
+</details>
 
 ## DAOrayaki 最新研究
 [DAOrayaki｜NFT 市场：去中心化的创造力还是 1990 年代的电子商务](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-nft-shi-chang-qu-zhong-xin-hua-de-chuang-zao-li-huan-shi-1990-nian-dai-de-dian-zi-shang-wu.md)  
