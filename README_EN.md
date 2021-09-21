@@ -21,6 +21,7 @@ Since its establishment, DAOrayaki has been committed to building new funding, r
 <details>
    <summary>  🔭 <b> <font size="4">DAOrayaki's Governance Mechanism </font> </b>    </summary>  
    
+Taking DAO as an organizational form for funding, research, and dissemination, readers can directly fund the DAO, participate in governance, elect the executive team, make rules and standards, and inspire the entire ecosystem based on rules.
 
 In the early days of DAOrayaki, the committee used a simple majority voting mechanism, and articles with voting results >50% can be published. Currently, the voting mechanism of the DAOrayaki Committee has been upgraded to adopt the voting mechanism of MolochDAO.
    
