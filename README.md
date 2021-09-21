@@ -101,87 +101,136 @@ Twitter: @orayakida
 
 ## DAOrayaki 研究专题（持续更新）
 ### DAO DGov专题
-#### 基础研究
+#### DAO的构建与设计
 
-##### DAO基础
-[有多巴胺分泌的DAO治理协议的综述——引言（2021版）](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/daoresearch.md)  
-[一文了解 Dora Factory 1.0](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/dorafactory1-0.md)
-[8步实现去中心化](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/8bu-shi-xian-qu-zhong-xin-hua.md)  
-[DAO与全球经济秩序｜加密圈生态技术](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/daoyu-quan-qiu-jing-ji-zhi-xu-jia-mi-quan-sheng-tai-ji-zhu.md)  
-[DAO与全球经济秩序｜新自由主义的黄昏](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/daoyu-quan-qiu-jing-ji-zhi-xu-xin-zi-you-zhu-yi-de-huang-hun.md)  
-[海外最新研讨：数字货币与货币体系的未来](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/hai-wai-zui-xin-yan-tao-shu-zi-huo-bi-yu-huo-bi-ti-xi-de-wei-lai.md)   
-[公共事务的治理之道：集体行动制度的演进【美】埃莉诺·奥斯特罗姆（Elinor Ostrom）](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/untitled-3.md)  
-[DAO 通过财政多元化为下一个加密冬天做准备](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/dao-tong-guo-cai-zheng-duo-yuan-hua-wei-xia-yi-ge-jia-mi-dong-tian-zuo-zhun-bei.md)  
-[DAOrayaki｜GitcoinDAO 群体思维正在崛起](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/daorayaki-gitcoindao-qun-ti-si-wei-zheng-zai-jue-qi.md)  
-[加密技术的全面论述—开放金融系统](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/jia-mi-ji-zhu-de-quan-mian-lun-shu-kai-fang-jin-rong-xi-tong.md)  
-[元数据、数据堆栈、数据目录3.0](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/yuan-shu-ju-shu-ju-dui-zhan-shu-ju-mu-lu-3-0.md)  
-
-##### 社区贡献
-[如何DAO化|基于社区贡献机会（CCO）机制的去中心化治理](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/ru-he-daohua-ji-yu-she-qu-gong-xian-ji-hui-cco-ji-zhi-de-qu-zhong-xin-hua-zhi-li.md)  
 [什么是社区贡献机会（CCO）](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/shi-yao-shi-she-qu-gong-xian-ji-hui-cco.md)  
-[SourceCred：基于贡献的计算信用工具](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/sourcecred-ji-yu-gong-xian-de-ji-suan-xin-yong-gong-ju.md)  
-[$WORK 奖励、利益相关者经济学和就业共享的代币化](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/work-jiang-li-li-yi-xiang-guan-zhe-jing-ji-xue-he-jiu-ye-gong-xiang-de-dai-bi-hua.md)  
-[DAOrayaki｜关于改善配对协调补贴的一个方法探讨](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/daorayaki-guan-yu-gai-shan-pei-dui-xie-diao-bu-tie-de-yi-ge-fang-fa-tan-tao.md)  
-##### 共识/预言机
-[万字解读| Upshot One 对等预测协议](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/mo-zi-jie-du-upshot-one-dui-deng-yu-ce-xie-yi.md)  
-[价格与预言机](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/jie-ge-yu-yu-yan-ji.md) 
-##### 激励机制/代币设计/经济系统
-[价格发现的艺术，嵌套的策展市场，当联合曲线遇到NFT](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/bonding-curve-and-nft-pricing.md)  
-[联合曲线设计脑洞大全及参数大典](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/lian-he-qu-xian-she-ji-nao-dong-da-quan-ji-can-shu-da-dian.md)  
-[策展市场|一种构建联合关注网络的机制](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/ce-zhan-shi-chang-yi-chong-gou-jian-lian-he-guan-zhu-wang-luo-de-ji-zhi.md)  
-[道德作为通证工程共享（Token Engineering Commons）的使命与动机](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/dao-de-zuo-wei-tong-zheng-gong-cheng-gong-xiang-token-engineering-commons-de-shi-ming-yu-dong-ji.md)  
-[Social token与DAO思潮下微观经济体的崛起](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/social-tokenyu-daosi-chao-xia-wei-guan-jing-ji-ti-de-jue-qi.md)  
-[DAOrayaki｜DAO 国库多元化的范围代币](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/dao-guo-ku-duo-yuan-hua-de-fan-wei-dai-bi.md)  
-[DAOrayaki｜如何利用社交代币实现长期增长](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/daorayaki-ru-he-li-yong-she-jiao-dai-bi-shi-xian-chang-qi-zeng-chang.md)
+[DAO治理中的同构性](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/daozhi-li-zhong-de-tong-gou-xing.md)  
+[8步实现去中心化](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/8bu-shi-xian-qu-zhong-xin-hua.md)  
+[DAOrayaki｜GitcoinDAO 群体思维正在崛起](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/daorayaki-gitcoindao-qun-ti-si-wei-zheng-zai-jue-qi.md) 
+[DAOs的设计再思考：信任与决策权、风险、剩余索取权的分配]()
+[如何DAO化|基于社区贡献机会（CCO）机制的去中心化治理](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/ru-he-daohua-ji-yu-she-qu-gong-xian-ji-hui-cco-ji-zhi-de-qu-zhong-xin-hua-zhi-li.md)  
 [通证工程共享（Token Engineering Commons）：分析权益持有者、通证和治理过程](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/tong-zheng-gong-cheng-gong-xiang-token-engineering-commons-fen-xi-quan-yi-chi-you-zhe-tong-zheng-he-zhi-li-guo-cheng.md)  
 
-##### 基础设施
+#### DAO 治理策略
 
-#### DAO治理研究
-##### 治理机制
+[DAOrayaki | Gas成本和选民参与](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-gascheng-ben-he-xuan-min-can-yu.md)  
+[DAOrayaki｜PoolHAUS与去中心化流动性供应](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/daorayaki-poolhausyu-qu-zhong-xin-hua-liu-dong-xing-gong-ying.md)  
 [API3 DAO | DAO和质押的意义 Part 1](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/api3-dao-daohe-zhi-ya-de-yi-yi-part-1.md)  
-[DAOrayaki首发| SEC.gov代币安全港提案2.0](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/token-safe-harbor2-0.md)  
-[DAOrayaki Research |全方位解析DAOhaus治理机制(ENG&CHN)](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/quan-fang-wei-jie-xi-daohauszhi-li-ji-zhi.md)  
-[DAO治理中的同构性](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/daozhi-li-zhong-de-tong-gou-xing.md)  
-[价格敞口和投票权](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/jie-ge-chang-kou-he-tou-piao-quan.md)  
-[可选用的DAOs投票机制汇总](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/ke-xuan-yong-de-daostou-piao-ji-zhi-hui-zong.md)  
-[自动化奥斯特罗姆（Ostrom）以实现有效的DAO管理](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/zi-dong-hua-ao-si-te-luo-mu-ostrom-yi-shi-xian-you-xiao-de-daoguan-li.md)  
+[D2D：面向去中心化的谈判协议](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/d2d-mian-xiang-qu-zhong-xin-hua-de-tan-pan-xie-yi.md)  
+[联合曲线设计脑洞大全及参数大典](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/lian-he-qu-xian-she-ji-nao-dong-da-quan-ji-can-shu-da-dian.md)  
+[Synthetix：去中心化治理结构](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/synthetix-qu-zhong-xin-hua-zhi-li-jie-gou.md)  
+[DAO 联盟|Open DeFi DAO 治理结构](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/dao-lian-meng-open-defi-dao-zhi-li-jie-gou.md)  
+
+#### DAO 投票治理
+
 [DAOrayaki｜Vitalik Buterin：超越代币投票的治理](https://github.com/DAOrayaki/DAOrayaki-core/tree/develop/2021/2021-Q3/2021-08)  
+[可选用的DAOs投票机制汇总](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/ke-xuan-yong-de-daostou-piao-ji-zhi-hui-zong.md)  
+[价格敞口和投票权](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/jie-ge-chang-kou-he-tou-piao-quan.md)  
+[去中心化仲裁：Kleros、Aragon、Jur](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/qu-zhong-xin-hua-zhong-cai-kleros-aragon-jur.md)  
+
+#### DAO代币治理
+
+[DAOrayaki｜如何利用社交代币实现长期增长](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/daorayaki-ru-he-li-yong-she-jiao-dai-bi-shi-xian-chang-qi-zeng-chang.md)
+[DAOrayaki | 代币经济学导论]()
+[Farming机制是否代表着代币分配的进步？](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/farmingji-zhi-shi-fou-dai-biao-zhao-dai-bi-fen-pei-de-jin-bu.md)  
+[DAOrayaki｜DAO 国库多元化的范围代币](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/dao-guo-ku-duo-yuan-hua-de-fan-wei-dai-bi.md)  
+[DAO 通过财政多元化为下一个加密冬天做准备](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/dao-tong-guo-cai-zheng-duo-yuan-hua-wei-xia-yi-ge-jia-mi-dong-tian-zuo-zhun-bei.md)  
+[DAOrayaki| DAO：扩展资本协调能力]() 
+[Social token与DAO思潮下微观经济体的崛起](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/social-tokenyu-daosi-chao-xia-wei-guan-jing-ji-ti-de-jue-qi.md)  
+[$WORK 奖励、利益相关者经济学和就业共享的代币化](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/work-jiang-li-li-yi-xiang-guan-zhe-jing-ji-xue-he-jiu-ye-gong-xiang-de-dai-bi-hua.md)  
+[海外最新研讨：数字货币与货币体系的未来](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/hai-wai-zui-xin-yan-tao-shu-zi-huo-bi-yu-huo-bi-ti-xi-de-wei-lai.md)  
+
+#### DAO治理攻击
+
+[DAOrayaki｜DAO 的漏洞：自治的假想与治理弹性评估模型](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-dao-de-lou-dong-zi-zhi-de-jia-xiang-yu-zhi-li-dan-xing-ping-gu-mo-xing.md)  
+[DAOrayaki｜公地弹性：去中心化技术社区治理中的“弹性”](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-gong-di-dan-xing-qu-zhong-xin-hua-ji-zhu-she-qu-zhi-li-zhong-de-dan-xing.md)  
 [DAOrayaki｜算法治理实验：DAO治理动态、韧性及崩溃](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-suan-fa-zhi-li-shi-yan-daozhi-li-dong-tai-ren-xing-ji-beng-kui.md)  
-##### 二次方投票
+[DAOrayaki ｜加密市场操纵：威科夫方法及模式](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/daorayaki-jia-mi-shi-chang-cao-zong-wei-ke-fu-fang-fa-ji-mo-shi.md)  
+[DAOrayaki ｜加密货币里的吸血鬼攻击](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/daorayaki-jia-mi-huo-bi-li-de-xi-xie-gui-gong-ji.md)  
+[全面综述：女巫攻击和防御方法](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/quan-mian-zong-shu-nu-wu-gong-ji-he-fang-yu-fang-fa.md)  
+[依靠钱包追踪鲸鱼活动](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/yi-kao-qian-bao-zhui-zong-jing-yu-huo-dong.md)  
 [二次方融资（Quadratic Funding）的攻击与防守](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/er-ci-fang-rong-zi-quadratic-funding-de-gong-ji-yu-fang-shou.md)  
-[社会实验 | 让社区资助爆发巨大能量，当二次方投票遇上黑客马拉松](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/quadratic-voting-2.md)  
-[Quadratic Voting and Funding at ETH Hackathon Beijing](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/quadratic-voting-and-funding-at-eth-hackathon-beijing.md)  
-[「激进市场」和二次方投票 | 用市场本身去监管市场](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/quadratic-voting.md)  
-[Dora Factory Eric Zhang：使用累进税系统提高二次方资助的公平性](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/dora-factory-eric-zhang-shi-yong-lei-jin-shui-xi-tong-ti-gao-er-ci-fang-zi-zhu-de-gong-ping-xing.md)  
+
+#### 二次方投票、融资资助
+
 [DAOrayaki｜二次方投票与公共物品](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/daorayaki-er-ci-fang-tou-piao-yu-gong-gong-wu-pin.md)
 [二次方投票和区块链治理](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/er-ci-fang-tou-piao-he-qu-kuai-lian-zhi-li.md)  
-[二次方资助V2协议:链上反女巫、公平性和可扩展性](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/er-ci-fang-zi-zhu-v2xie-yi-lian-shang-fan-nu-wu-gong-ping-xing-he-ke-kuo-zhan-xing.md)  
+[DAOrayaki｜关于改善配对协调补贴的一个方法探讨](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/daorayaki-guan-yu-gai-shan-pei-dui-xie-diao-bu-tie-de-yi-ge-fang-fa-tan-tao.md)  
 [二次方投票：机制设计如何使民主激进化](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/er-ci-fang-tou-piao-ji-zhi-she-ji-ru-he-shi-min-zhu-ji-jin-hua.md)  
-##### Futrachy机制
+[「激进市场」和二次方投票 | 用市场本身去监管市场](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/quadratic-voting.md)  
+[二次方资助V2协议:链上反女巫、公平性和可扩展性](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/er-ci-fang-zi-zhu-v2xie-yi-lian-shang-fan-nu-wu-gong-ping-xing-he-ke-kuo-zhan-xing.md)  
+[Dora Factory Eric Zhang：使用累进税系统提高二次方资助的公平性](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/dora-factory-eric-zhang-shi-yong-lei-jin-shui-xi-tong-ti-gao-er-ci-fang-zi-zhu-de-gong-ping-xing.md)  
+[二次方融资（Quadratic Funding）的攻击与防守](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/er-ci-fang-rong-zi-quadratic-funding-de-gong-ji-yu-fang-shou.md)  
 
+#### 预测市场
+
+[预测市场的力量](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/yu-ce-shi-chang-de-li-liang.md)  
+[万字解读| Upshot One 对等预测协议](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/mo-zi-jie-du-upshot-one-dui-deng-yu-ce-xie-yi.md)  
+[买单投票：一种新型的混合代币投票/Futarchy](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/mai-dan-tou-piao-yi-chong-xin-xing-de-hun-he-dai-bi-tou-piao-futarchy.md)  
+[DAOrayaki｜针对高度不可能事件押注的预测市场设计](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/zhen-dui-gao-du-bu-ke-neng-shi-jian-ya-zhu-de-yu-ce-shi-chang-she-ji.md)  
+[Futarchy | 价值投票，对赌信仰，用钱说话，口说无凭](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/futarchy.md)  
+[基于 Futarchy治理的案例：Amoveo、Tezos、Gnosis](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/untitled.md)  
 [罗宾·汉森经典论文（一）|Futarchy：我们应该价值投票、对赌信仰吗？](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/luo-bin-yi-sen-jing-dian-lun-wen-yi-futarchy-wo-men-ying-gai-jie-zhi-tou-piao-dui-du-xin-yang-ma.md)  
 [罗宾·汉森经典论文（二）|Futarchy：我们应该价值投票、对赌信仰吗？](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/luo-bin-yi-sen-jing-dian-lun-wen-er-futarchy-wo-men-ying-gai-jie-zhi-tou-piao-dui-du-xin-yang-ma.md)  
 [罗宾·汉森经典论文（三）|Futarchy：工程设计25个问题](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/luo-bin-yi-sen-jing-dian-lun-wen.md)  
 [罗宾·汉森经典论文（四）|Futarchy：工程设计25个问题](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/luo-bin-yi-sen-jing-dian-lun-wen-si-futarchy-gong-cheng-she-ji-25ge-wen-ti.md)  
-[Futarchy | 价值投票，对赌信仰，用钱说话，口说无凭](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/futarchy.md)  
-[预测市场的力量](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/yu-ce-shi-chang-de-li-liang.md)  
-[基于 Futarchy治理的案例：Amoveo、Tezos、Gnosis](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/untitled.md)  
-[DAOrayaki｜针对高度不可能事件押注的预测市场设计](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/zhen-dui-gao-du-bu-ke-neng-shi-jian-ya-zhu-de-yu-ce-shi-chang-she-ji.md)  
-[买单投票：一种新型的混合代币投票/Futarchy](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/mai-dan-tou-piao-yi-chong-xin-xing-de-hun-he-dai-bi-tou-piao-futarchy.md)  
+
+#### 公共物品、奥斯特罗姆
+
+
+
+#### NFT、NFT DAO
+
+#### DAO 行业发展
+
+#### DAO 媒体
+
+##### DAO基础
+[有多巴胺分泌的DAO治理协议的综述——引言（2021版）](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/daoresearch.md)  
+[一文了解 Dora Factory 1.0](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/dorafactory1-0.md)
+
+[DAO与全球经济秩序｜加密圈生态技术](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/daoyu-quan-qiu-jing-ji-zhi-xu-jia-mi-quan-sheng-tai-ji-zhu.md)  
+[DAO与全球经济秩序｜新自由主义的黄昏](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/daoyu-quan-qiu-jing-ji-zhi-xu-xin-zi-you-zhu-yi-de-huang-hun.md)  
+ 
+[公共事务的治理之道：集体行动制度的演进【美】埃莉诺·奥斯特罗姆（Elinor Ostrom）](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/untitled-3.md)  
+[加密技术的全面论述—开放金融系统](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/jia-mi-ji-zhu-de-quan-mian-lun-shu-kai-fang-jin-rong-xi-tong.md)  
+[元数据、数据堆栈、数据目录3.0](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/yuan-shu-ju-shu-ju-dui-zhan-shu-ju-mu-lu-3-0.md)  
+
+##### 社区贡献
+
+[SourceCred：基于贡献的计算信用工具](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/sourcecred-ji-yu-gong-xian-de-ji-suan-xin-yong-gong-ju.md)  
+
+##### 共识/预言机
+[价格与预言机](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/jie-ge-yu-yu-yan-ji.md) 
+##### 激励机制/代币设计/经济系统
+[价格发现的艺术，嵌套的策展市场，当联合曲线遇到NFT](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/bonding-curve-and-nft-pricing.md)  
+[策展市场|一种构建联合关注网络的机制](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/ce-zhan-shi-chang-yi-chong-gou-jian-lian-he-guan-zhu-wang-luo-de-ji-zhi.md)  
+[道德作为通证工程共享（Token Engineering Commons）的使命与动机](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/dao-de-zuo-wei-tong-zheng-gong-cheng-gong-xiang-token-engineering-commons-de-shi-ming-yu-dong-ji.md)  
+
+##### 基础设施
+
+#### DAO 治理策略
+##### 治理机制
+[DAOrayaki首发| SEC.gov代币安全港提案2.0](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/token-safe-harbor2-0.md)  
+[DAOrayaki Research |全方位解析DAOhaus治理机制(ENG&CHN)](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/quan-fang-wei-jie-xi-daohauszhi-li-ji-zhi.md)  
+
+[自动化奥斯特罗姆（Ostrom）以实现有效的DAO管理](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/zi-dong-hua-ao-si-te-luo-mu-ostrom-yi-shi-xian-you-xiao-de-daoguan-li.md)  
+
+##### 二次方投票
+
+
+
+[Quadratic Voting and Funding at ETH Hackathon Beijing](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/quadratic-voting-and-funding-at-eth-hackathon-beijing.md)  
+
+[社会实验 | 让社区资助爆发巨大能量，当二次方投票遇上黑客马拉松](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/quadratic-voting-2.md)  
+
+##### Futrachy机制
+
 ##### 面临的攻击/问题
-[DAOrayaki ｜加密货币里的吸血鬼攻击](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/daorayaki-jia-mi-huo-bi-li-de-xi-xie-gui-gong-ji.md)  
-[DAOrayaki ｜加密市场操纵：威科夫方法及模式](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/daorayaki-jia-mi-shi-chang-cao-zong-wei-ke-fu-fang-fa-ji-mo-shi.md)  
-[全面综述：女巫攻击和防御方法](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/quan-mian-zong-shu-nu-wu-gong-ji-he-fang-yu-fang-fa.md)  
-[依靠钱包追踪鲸鱼活动](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/yi-kao-qian-bao-zhui-zong-jing-yu-huo-dong.md)  
-[DAOrayaki｜DAO 的漏洞：自治的假想与治理弹性评估模型](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-dao-de-lou-dong-zi-zhi-de-jia-xiang-yu-zhi-li-dan-xing-ping-gu-mo-xing.md)  
-[DAOrayaki | Gas成本和选民参与](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-gascheng-ben-he-xuan-min-can-yu.md)  
+
 #### DAO应用研究
 ##### DeFi
-[DAO 联盟|Open DeFi DAO 治理结构](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/dao-lian-meng-open-defi-dao-zhi-li-jie-gou.md)  
 [DAOrayaki | DeFi无缝集成全球最性感资产—BTC，特斯拉和茅台](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/defi-lego.md)  
-[Farming机制是否代表着代币分配的进步？](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/farmingji-zhi-shi-fou-dai-biao-zhao-dai-bi-fen-pei-de-jin-bu.md)  
-[DAOrayaki｜PoolHAUS与去中心化流动性供应](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/daorayaki-poolhausyu-qu-zhong-xin-hua-liu-dong-xing-gong-ying.md)  
 [DAOrayaki｜最受热捧的合成资产平台之间区别](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/daorayaki-zui-shou-re-peng-de-he-cheng-zi-chan-ping-tai-zhi-jian-qu-bie.md)  
 ##### 公共物品
 [极客与画家 | 开源项目、NFT和简化的哈伯格税](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/hackerandpainter.md)  
@@ -190,7 +239,7 @@ Twitter: @orayakida
 [DAOrayaki｜连续性公共物品资助](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/daorayaki-lian-xu-xing-gong-gong-wu-pin-zi-zhu.md)  
 [“可追溯公共物品融资”进展分析](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/ke-zhui-su-gong-gong-wu-pin-rong-zi-jin-zhan-fen-xi.md)  
 [可追溯公共物品融资](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/ke-zhui-su-gong-gong-wu-pin-rong-zi.md)  
-[DAOrayaki｜公地弹性：去中心化技术社区治理中的“弹性”](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-gong-di-dan-xing-qu-zhong-xin-hua-ji-zhu-she-qu-zhi-li-zhong-de-dan-xing.md)  
+
 #### 去中心化媒体
 [DAOrayaki｜打破媒体第四面墙：观众和创作者的融合](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-da-po-mei-ti-di-si-mian-qiang-guan-zhong-he-chuang-zuo-zhe-de-rong-he.md)  
 [DAOrayaki｜去中心化媒体：web 3.0时代民主、隐私与价值共享的机遇](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-qu-zhong-xin-hua-mei-ti-web-3-0shi-dai-min-zhu-yin-si-yu-jie-zhi-gong-xiang-de-ji-yu.md)  
@@ -211,7 +260,6 @@ Twitter: @orayakida
 [全面解读｜Colony v2：有效降低市场交易成本的DAO基础设施](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/quan-mian-jie-du-colony-v2-you-xiao-jiang-di-shi-chang-jiao-yi-cheng-ben-de-daoji-chu-she-shi.md)  
 
 #### 投资DAO
-[Synthetix：去中心化治理结构](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/synthetix-qu-zhong-xin-hua-zhi-li-jie-gou.md)  
 [​DAOrayaki研究｜MolochDAO v1、v2、v3](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/daorayakiyan-jiu-molochdao-v1-v2-v3.md)  
 [Venture DAO生态系统概述](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/venture-daosheng-tai-xi-tong-gai-shu.md)  
 
@@ -225,7 +273,6 @@ Twitter: @orayakida
 [DAOrayaki Research |The APIS(ENG&CHN) - DAOrayaki](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/daorayaki-research-boson-protocol-eng-chn-daorayaki.md)  
 [DAOrayaki Research |Boson Protocol(ENG&CHN) - DAOrayaki](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/daorayaki-research.md)
 [BarnBridge: 用于对冲收益率敏感性和市场价格的波动衍生品协议](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/barnbridge-yong-yu-dui-chong-shou-yi-lu-min-gan-xing-he-shi-chang-jie-ge-de-bo-dong-yan-sheng-pin-xie-yi.md)  
-[D2D：面向去中心化的谈判协议](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/d2d-mian-xiang-qu-zhong-xin-hua-de-tan-pan-xie-yi.md)  
 [Orca Protocol：轻量级的社区铸造和管理平台](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/orca-protocol-qing-liang-ji-de-she-qu-zhu-zao-he-guan-li-ping-tai.md)  
 [District0x：一个去中心化的市场网络](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/district0x-yi-ge-qu-zhong-xin-hua-de-shi-chang-wang-luo.md)  
 [DAOrayaki｜ECONOMIC SPACE AGENCY ：后资本主义经济表达的协议](https://github.com/DAOrayaki/DAOrayaki-core/tree/develop/2021/2021-Q3/2021-08)  
@@ -259,7 +306,6 @@ Twitter: @orayakida
 [Boardroom: 通用治理仪表盘与SDK](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/boardroom-tong-yong-zhi-li-yi-biao-pan-yu-sdk.md)  
 [Coordinape: 为DAO提供去中心化的薪资管理](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/coordinape-decentralized-payroll-management-for-daos.md)  
 [OpenLaw：自动化法律协议](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/openlaw-zi-dong-hua-fa-lu-xie-yi.md)  
-[去中心化仲裁：Kleros、Aragon、Jur](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/qu-zhong-xin-hua-zhong-cai-kleros-aragon-jur.md)  
 [Tally: 链上治理仪表盘](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/tally-lian-shang-zhi-li-yi-biao-pan.md)  
 [详解Gnosis Safe: 灵活、安全的数字资产管理工具](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/xiang-jie-gnosis-safe-ling-huo-an-quan-de-shu-zi-zi-chan-guan-li-gong-ju.md)  
 [详解Vocdoni: 去中心化的投票系统](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/xiang-jie-vocdoni-qu-zhong-xin-hua-de-tou-piao-xi-tong.md)  
