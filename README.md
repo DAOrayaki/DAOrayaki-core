@@ -104,7 +104,7 @@ github：您可以直接使用github的issue功能进行留言和评论。
 2）翻译/原创与DAO治理相关的话题  
 <!-- 联系：微信搜索DAOrayaki-media或者扫描下方二维码加入DAOrayaki中文社区. -->
 
-#### 话题建议
+<!-- #### 话题建议 
 如果您有感兴趣的话题，希望DAOrayaki的小伙伴进行研究，可以联系我们或者直接在本项目中提交issue，详细规则参考[wiki](../../wiki).
 
 <!-- 1) 微信：搜索DAOrayaki-media或加入DAOrayaki中文社区进行讨论. -->
