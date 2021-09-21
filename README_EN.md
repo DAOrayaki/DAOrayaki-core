@@ -1,6 +1,6 @@
 
 # DAOrayaki 
-[切换到中文]()
+[切换到中文](https://github.com/DAOrayaki/DAOrayaki-core)
 
 <details>
    <summary>  👋 <b> <font size="4">What is DAOrayaki</font> </b>    </summary>  
