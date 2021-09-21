@@ -98,37 +98,6 @@ github：您可以直接使用github的issue功能进行留言和评论。
 [DAOrayaki｜打破媒体第四面墙：观众和创作者的融合](https://daorayaki.org/daorayaki-da-po-mei-ti-di-si-mian-qiang-guan-zhong-he-chuang-zuo-zhe-de-rong-he/)  
 [DAOrayaki｜MetaCartel——一个由创建者和运营商构建去中心化应用的生态系统](https://daorayaki.org/metacartel-yi-ge-you-chuang-jian-zhe-he-yun-ying-shang-gou-jian-qu-zhong-xin-hua-ying-yong-de-sheng-tai-xi-tong/) -->
 
-<!-- ### 如何参与DAOrayaki
-#### 内容贡献
-1）cover 与DAO相关的项目  
-2）翻译/原创与DAO治理相关的话题  
-<!-- 联系：微信搜索DAOrayaki-media或者扫描下方二维码加入DAOrayaki中文社区. -->
-
-<!-- #### 话题建议 
-如果您有感兴趣的话题，希望DAOrayaki的小伙伴进行研究，可以联系我们或者直接在本项目中提交issue，详细规则参考[wiki](../../wiki).
-
-<!-- 1) 微信：搜索DAOrayaki-media或加入DAOrayaki中文社区进行讨论. -->
-<!-- 2) discord: https://discord.gg/hR7v3H8K -->
-
-#### 社区治理机制讨论与设计
-
-参与DAOrayaki社区治理机制的构建和设计。
-#### 为DAOrayaki捐款
-
-DAOrayaki目前正在gitcoin上申请GRANT，欢迎大家前往[捐款链接](https://gitcoin.co/grants/3356/daorayaki)为DAOrayaki捐款。
-
-### 加入DAOrayaki
-您可以通过以下方式参与到DAOrayaki的社区当中，并且获得丰厚的社区激励。
-
-1) 微信：扫描下方二维码加入DAOrayaki中文社区。
-
-<img src="https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/imgs/wechat.jpeg" width="48" align="center">
-
-2) discord: 点击[链接](https://discord.gg/hR7v3H8K)加入discord社区讨论。
-
-3) github：您可以直接使用github的issue功能进行留言和评论，具体规则参考[wiki](../../wiki) -->
-
-    
 ## DAOrayaki 研究专题（持续更新）
 ### DAO DGov专题
 #### 基础研究
