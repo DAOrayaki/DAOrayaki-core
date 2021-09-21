@@ -1,9 +1,9 @@
 # DAOrayaki 
- 
+ ```
    **一个民主治理和所有人都可以利用的公共媒体系统**
 
    **To empower people，we must decentralization information**
-
+```
 <!-- <details>
    <summary>  👋🌱 <b> <font size="4">DAOrayaki介绍</font> </b> 🌱👋     </summary>  
     -->
