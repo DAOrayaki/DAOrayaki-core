@@ -2,14 +2,18 @@
 # DAOrayaki 
 
 <details>
-   <summary>  👋 <b> <font size="4">what is DAOrayaki</font> </b>    </summary>  
+   <summary>  👋 <b> <font size="4">What is DAOrayaki</font> </b>    </summary>  
    -  
    
    **To empower people，we must decentralization information**
 
-**DAOrayaki** 是一个去中心化的研究者组织和去中心化媒体，通过 DAO的形式去中心化地资助世界各地的研究者进行研究、翻译、分析等工作。**DAOrayaki** 由早期的 DAO 组织 DAOONE 核心成员发起，得到了Dora Factory基础设施的支持。自 2021 年 1 月以来，**DAOrayaki** 的贡献者网络已经深入覆盖了二次方资助、Futarchy、dGov、Moloch、算法治理、可回溯公共物品融资、奥斯特罗姆公共事务治理方法等数十个话题和以太坊生态研究成果。目前，我们已追踪研究53个DAO项目，发表 131 篇文章，普及了去中心化治理的知识和最新进展。
+DAOrayaki is a decentralized researcher organization and decentralized media, which decentralizes to fund research, translation, analysis, and other work by researchers all over the world through the form of DAO.
+   
+It is initiated by the core community members of DAOONE, which is China’s first DAO organization. It receives support from DAO’s infrastructure Dora Factory. 
+   
+DAOs have become an indispensable governance structure in the encryption field. However, for many people, DAO is still a vague concept. We hope to use scientific methods and means to research and disseminate the most urgent governance issues to promote the development of the DAO field. At the same time, realize the co-creation, co-construction, and sharing of knowledge communities.
 
-通过 DAO，研究组织和媒体可以打破地域的限制，以社区的方式资助和生产内容。**DAOrayaki**将会通过DAO的形式，构建一个满足人们需求，一个民主治理和所有人都可以利用的公共媒体系统，从而实现真正意义上的去中心化。
+Since its establishment, DAOrayaki has been committed to building new funding, research, and communication relationship. Take DAO as an organizational form for funding, research, and dissemination, and use its unique governance structure and mechanism to operate the ecology. Readers can directly fund the DAO and participate in governance, elect the executive team, formulate rules and content standards, and inspire the entire ecosystem according to the rules.
 
 </details>
 
@@ -17,9 +21,7 @@
    <summary>  🔭 <b> <font size="4">DAOrayaki's Governance Mechanism </font> </b>    </summary>  
    
 
-以DAO作为资助、研究、传播的组织形式，利用其独特的治理结构和机制来运行生态。读者可以直接资助DAO并参与治理，选举执行团队，制定规则和内容标准，并根据规则激励整个生态系统。
-
-在DAOrayaki早期，委员会采用简单的多数投票机制，投票结果>50%的文章可以发表。目前，DAOrayaki 委员会的投票机制已升级为采用 MolochDAO 的投票机制。
+In the early days of DAOrayaki, the committee used a simple majority voting mechanism, and articles with voting results >50% can be published. Currently, the voting mechanism of the DAOrayaki Committee has been upgraded to adopt the voting mechanism of MolochDAO.
    
    
 </details>
@@ -29,7 +31,7 @@
    <summary>  📫 <b> <font size="4">DAOrayaki Treasury </font> </b>      </summary>  
    
 
-2021 年 6 月 15 日，DAOrayaki 使用 Dora Factory 提供的基础设施在 BSC 主网上部署名为“DAOrayaki DAO”的 Funder DAO。这是一个基于 Moloch 的 DAO，供成员促进去中心化基金管理、处理新成员申请、提交提案、怒退、资助内容等。考虑到安全及效率，现在，DAOrayaki treasury (Gnosis Safe) 通过多签钱包管理。 DAOrayaki 使用多重签名钱包来协调资助者和研究内容贡献者。
+On June 15, 2021, DAOrayaki uses the infrastructures provided by Dora Factory to deploy its own Funder’s DAO named “DAOrayaki DAO ”on the BSC mainnet. This is a Moloch-based DAO for members to facilitate decentralized fund management, process new member applications, submit proposals, Rage Quit, fund contents, etc.  Now, considering safety and efficiency, DAOrayaki treasury (Gnosis Safe) is administered by a multi-sig wallet. The initial setup is 3 of 7 signers whom the DAOrayaki committee has nominated. DAOrayaki uses the multi-sig wallet to coordinate sponsors and research content contributors. 
 
    </details>
 
@@ -38,34 +40,33 @@
    <summary> ⚡ <b> <font size="4">How to Contribute to DAOrayaki </font> </b>      </summary>  
    
 
-#### - 内容贡献 
+#### - Contribute Content
     
-1）cover 与DAO相关的项目
+1）cover DAO related projects
     
-2）翻译/原创与DAO治理相关的话题
+2）Translate/create DAO related articles
 
-#### - 话题建议
-如果您有感兴趣的话题，希望DAOrayaki的小伙伴进行研究，可以联系我们或者直接在本项目中提交issue.
+#### - Suggest topic
+If you have some interested topic and wish daorayaki to research on it, you can  contact us or submit issue directly in this project
+   
+#### - Discussion and design of community governance mechanism
+Participate in the design and discussion of daorayaki community governance mechanism.
 
-#### - 社区治理机制讨论与设计
-参与DAOrayaki社区治理机制的构建和设计。
-
-#### - 为DAOrayaki捐款
-DAOrayaki目前正在gitcoin上申请GRANT，欢迎大家前往捐款。
+#### - Donate to DAOrayaki
+DAOrayaki is currently applying for GRANT on gitcoin, welcome to donate.
  
  </details>
    
  <details>
-   <summary>  💬 <b> <font size="4"> Proposal to DAOrayaki by Github</font> </b>      </summary>  
+   <summary>  💬 <b> <font size="4"> Submit Proposals to DAOrayaki through Github</font> </b>      </summary>  
     
-
-如果您发现DAOrayaki的过往文章内容已经过时、您有希望DAOrayaki代为研究的内容或者您有一个非常诱人的想法想要告诉DAOrayaki社区，您可以通过Github的issue功能来向社区提议，社区成员会对您的提议认真审核并且讨论。
-
-目前，DAOrayaki github渠道共有四种提议类型可选：
-1. Topic Advice。如果你有希望DAOrayaki代为研究的项目、文章或者话题，可以提此类型的issue。
-2. Content Outdate。如果您发现往期DAOrayaki的内容已经过时，可以提此类型的issue。
-3. Governance Advice。如果关于DAOrayaki的治理，您有一些令人兴奋的想法，可以提此类型的issue。
-4. Other Advice。如果您的提议不在以上列表中，您可以提此类型的issue。    
+If you find that the content of DAOrayaki’s past articles is out of date, or if you have something that you hope DAOrayaki to research on your behalf, or you have a very tempting idea to tell the DAOrayaki community, you can use the issue function of Github to propose to the community, and community members will Your proposal is carefully reviewed and discussed.
+   
+Currently, DAOrayaki github channels have four types of proposals:
+1. Topic Advice. If you have a project, article or topic that you want DAOrayaki to research on your behalf, you can submit this type of issue.
+2. Content Outdate. If you find that the content of DAOrayaki in the past is out of date, you can submit this type of issue.
+3. Governance Advice. If you have some exciting ideas about the governance of DAOrayaki, you can raise this type of issue.
+4. Other Advice. If your proposal is not in the above list, you can submit this type of issue. 
 
       </details>
 
