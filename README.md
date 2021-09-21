@@ -232,7 +232,7 @@ Twitter: @orayakida
 [DAOrayaki｜文艺复兴时期的创造者和下一个媒体模式的崛起](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-wen-yi-fu-xing-shi-qi-de-chuang-zao-zhe-he-xia-yi-ge-mei-ti-mo-shi-de-jue-qi.md)  
 
 
-### 💻 DAO应用专题 💻
+### DAO应用专题
 
 
 #### 🔭 DAO操作系统/基础设施
