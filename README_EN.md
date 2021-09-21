@@ -42,15 +42,15 @@ On June 15, 2021, DAOrayaki uses the infrastructures provided by Dora Factory to
 
 #### - Contribute Content
     
-1）cover DAO related projects
+1）Cover DAO related projects
     
 2）Translate/create DAO related articles
 
 #### - Suggest topic
-If you have some interested topic and wish daorayaki to research on it, you can  contact us or submit issue directly in this project
+If you have some interested topic and wish daorayaki research it, you can  contact us or submit issue directly in this project
    
 #### - Discussion and design of community governance mechanism
-Participate in the design and discussion of daorayaki community governance mechanism.
+Participate in the design and discussion of daorayaki governance mechanism.
 
 #### - Donate to DAOrayaki
 DAOrayaki is currently applying for GRANT on gitcoin, welcome to donate.
