@@ -87,14 +87,14 @@ github：您可以直接使用github的issue功能进行留言和评论。
 </details>
 
 ## DAOrayaki 最新研究
-### 💡
+### 💡 最新 DGov 研究
 [DAOrayaki｜NFT 市场：去中心化的创造力还是 1990 年代的电子商务](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-nft-shi-chang-qu-zhong-xin-hua-de-chuang-zao-li-huan-shi-1990-nian-dai-de-dian-zi-shang-wu.md)  
 [DAOrayaki | Gas成本和选民参与](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-gascheng-ben-he-xuan-min-can-yu.md)  
 [DAOrayaki｜DAO 的漏洞：自治的假想与治理弹性评估模型](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-dao-de-lou-dong-zi-zhi-de-jia-xiang-yu-zhi-li-dan-xing-ping-gu-mo-xing.md)  
 [DAOrayaki｜文艺复兴时期的创造者和下一个媒体模式的崛起](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-wen-yi-fu-xing-shi-qi-de-chuang-zao-zhe-he-xia-yi-ge-mei-ti-mo-shi-de-jue-qi.md)  
 [DAOrayaki｜公地弹性：去中心化技术社区治理中的“弹性”](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-gong-di-dan-xing-qu-zhong-xin-hua-ji-zhu-she-qu-zhi-li-zhong-de-dan-xing.md)  
 
-### 💻
+### 💻 最新应用研究
 [DAOrayaki Reserach |FlamingoDAO: 第一个由 LAO 社区孵化和构建的 DAO](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/flamingodao.md)  
 [DAOrayaki Reserach |Jenny Metaverse DAO: 以更低的成本获得真正的数字所有权](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/jenny-metaverse-dao.md)  
 [DAOrayaki Reserach |PleasrDAO: 以代币的形式分配 DAO 的所有权](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/pleasrdao.md)  
