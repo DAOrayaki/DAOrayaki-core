@@ -1,4 +1,5 @@
 # DAOrayaki 
+[Switch to English](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/README_EN.md)
 
 <details>
    <summary>  👋 <b> <font size="4">DAOrayaki介绍</font> </b>    </summary>  
