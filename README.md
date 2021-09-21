@@ -9,21 +9,28 @@
 通过 DAO，研究组织和媒体可以打破地域的限制，以社区的方式资助和生产内容。** DAOrayaki **将会通过DAO的形式，构建一个满足人们需求，一个民主治理和所有人都可以利用的公共媒体系统，从而实现真正意义上的去中心化。
 
 
-### DAOrayaki的治理机制 
-   
+<details>
+   <summary>  👋🌱 <b> <font size="4">DAOrayaki的治理机制 </font> </b> 🌱👋     </summary>
+
 以DAO作为资助、研究、传播的组织形式，利用其独特的治理结构和机制来运行生态。读者可以直接资助DAO并参与治理，选举执行团队，制定规则和内容标准，并根据规则激励整个生态系统。
 
 在DAOrayaki早期，委员会采用简单的多数投票机制，投票结果>50%的文章可以发表。目前，DAOrayaki 委员会的投票机制已升级为采用 MolochDAO 的投票机制。
    
-
-
-### DAOrayaki的Treasury 
    
+</details>
+
+   
+<details>
+   <summary>  👋🌱 <b> <font size="4">DAOrayaki的Treasury </font> </b> 🌱👋     </summary>
+
 2021 年 6 月 15 日，DAOrayaki 使用 Dora Factory 提供的基础设施在 BSC 主网上部署名为“DAOrayaki DAO”的 Funder DAO。这是一个基于 Moloch 的 DAO，供成员促进去中心化基金管理、处理新成员申请、提交提案、怒退、资助内容等。考虑到安全及效率，现在，DAOrayaki treasury (Gnosis Safe) 通过多签钱包管理。 DAOrayaki 使用多重签名钱包来协调资助者和研究内容贡献者。
 
+   </details>
 
-### 如何参与DAOrayaki 
-    
+   
+<details>
+   <summary>  👋🌱 <b> <font size="4">如何参与DAOrayaki </font> </b> 🌱👋     </summary>
+
 #### 内容贡献 
     
 1）cover 与DAO相关的项目
@@ -47,13 +54,19 @@ DAOrayaki目前正在gitcoin上申请GRANT，欢迎大家前往捐款链接卷�
 discord: 点击链接加入discord社区讨论。
 
 github：您可以直接使用github的issue功能进行留言和评论。
-  
-### DAOrayaki的Treasury
    
+ </details>
+   
+<details>
+   <summary>  👋🌱 <b> <font size="4">DAOrayaki的Treasury</font> </b> 🌱👋     </summary>
+
 2021 年 6 月 15 日，DAOrayaki 使用 Dora Factory 提供的基础设施在 BSC 主网上部署名为“DAOrayaki DAO”的 Funder DAO。这是一个基于 Moloch 的 DAO，供成员促进去中心化基金管理、处理新成员申请、提交提案、怒退、资助内容等。考虑到安全及效率，现在，DAOrayaki treasury (Gnosis Safe) 通过多签钱包管理。 DAOrayaki 使用多重签名钱包来协调资助者和研究内容贡献者。
    
-### 通过Github向DAOryaki提议
+  </details>
    
+ <details>
+   <summary>  👋🌱 <b> <font size="4"> 通过Github向DAOryaki提议</font> </b> 🌱👋     </summary>
+
 如果您发现DAOrayaki的过往文章内容已经过时、您有希望DAOrayaki代为研究的内容或者您有一个非常诱人的想法想要告诉DAOrayaki社区，您可以通过Github的issue功能来向社区提议，社区成员会对您的提议认真审核并且讨论。
 
 目前，DAOrayaki github渠道共有四种提议类型可选：
@@ -62,8 +75,11 @@ github：您可以直接使用github的issue功能进行留言和评论。
 3. Governance Advice。如果关于DAOrayaki的治理，您有一些令人兴奋的想法，可以提此类型的issue。
 4. Other Advice。如果您的提议不在以上列表中，您可以提此类型的issue。    
 
-### 联系我们
-    
+      </details>
+
+    <details>
+   <summary>  👋🌱 <b> <font size="4"> 联系我们</font> </b> 🌱👋     </summary>
+
 官网：https://daorayaki.org     
     
 Discord: 点击[链接](https://discord.gg/hR7v3H8K)加入discord社区讨论  
@@ -73,7 +89,8 @@ Twitter: @orayakida
 微信公众号：Dorafactory    
     
 微信助手：DAOrayaki-media  
-   
+       
+         </details>
 </details>
 
 ## DAOrayaki 最新研究
