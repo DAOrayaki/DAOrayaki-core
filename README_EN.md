@@ -107,7 +107,7 @@ WeChat Assistant：DAOrayaki-media
 ## DAOrayaki Researches (Continually Updating)
 
 <details>
-   <summary>  👋🌱 <b> <font size="4">DAO DGov Topic</font> </b> 🌱👋     </summary>  
+   <summary>  👋🌱 <b> <font size="4">DGov</font> </b> 🌱👋     </summary>  
 
 #### 🌱 Construction and Design of DAO
 
@@ -237,7 +237,7 @@ WeChat Assistant：DAOrayaki-media
 
 </details>
 <details>
-   <summary>  👋🌱 <b> <font size="4">DAO 应用专题</font> </b> 🌱👋     </summary>  
+   <summary>  👋🌱 <b> <font size="4">Application</font> </b> 🌱👋     </summary>  
    
 #### 🔭 DAO Operating Systerms/Infrastructure
 [DAOrayaki Research | SubDAO(ENG&CHN) - DAOrayaki](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/daorayaki-research-basketdao-eng-chn-daorayakidaorayakiread-more-posts-by-this-author.md)  
