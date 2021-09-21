@@ -313,7 +313,7 @@ Twitter: @orayakida
 [BanklessDAO: 无银行革命](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/banklessdao.md)  
 
 </details>
-
+<!-- 
 ## 本项目内容组织方式
 
 #### 分支
@@ -336,7 +336,7 @@ content/2021/2021-Q1/2021-07-21
 ```
 2021-07-21-Quadratic voting_ How mechanism design can radicalize democracy
 ```
-
+ -->
 <!-- ## 如何参与DAOrayaki
 ### 内容贡献
 1）cover 与DAO相关的项目  
