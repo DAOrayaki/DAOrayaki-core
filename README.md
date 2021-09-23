@@ -115,7 +115,7 @@ Twitter: @orayakida
    
    
 <details>
-   <summary> <b> <font size="4">    🌱 DAO的构建与设计 </font> </b>    </summary>  
+   <summary> <b> <font size="4">&nbsp;&nbsp;&nbsp;&nbsp;🌱 DAO的构建与设计 </font> </b>    </summary>  
    
 [什么是社区贡献机会（CCO）](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/shi-yao-shi-she-qu-gong-xian-ji-hui-cco.md)  
 [DAO治理中的同构性](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/daozhi-li-zhong-de-tong-gou-xing.md)  
