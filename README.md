@@ -110,8 +110,10 @@ Twitter: @orayakida
 <details>
    <summary>  👋🌱 <b> <font size="4">DAO DGov专题</font> </b> 🌱👋     </summary>  
 
-#### 🌱 DAO的构建与设计
 
+<details>
+   <summary> <b> <font size="4">🌱 DAO的构建与设计 </font> </b>    </summary>  
+   
 [什么是社区贡献机会（CCO）](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/shi-yao-shi-she-qu-gong-xian-ji-hui-cco.md)  
 [DAO治理中的同构性](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/daozhi-li-zhong-de-tong-gou-xing.md)  
 [8步实现去中心化](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/8bu-shi-xian-qu-zhong-xin-hua.md)  
@@ -121,8 +123,10 @@ Twitter: @orayakida
 [通证工程共享（Token Engineering Commons）：分析权益持有者、通证和治理过程](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/tong-zheng-gong-cheng-gong-xiang-token-engineering-commons-fen-xi-quan-yi-chi-you-zhe-tong-zheng-he-zhi-li-guo-cheng.md)   
 [SourceCred：基于贡献的计算信用工具](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/sourcecred-ji-yu-gong-xian-de-ji-suan-xin-yong-gong-ju.md)  
 [价格与预言机](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/jie-ge-yu-yu-yan-ji.md)  
-[道德作为通证工程共享（Token Engineering Commons）的使命与动机](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/dao-de-zuo-wei-tong-zheng-gong-cheng-gong-xiang-token-engineering-commons-de-shi-ming-yu-dong-ji.md)  
-
+[道德作为通证工程共享（Token Engineering Commons）的使命与动机](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/dao-de-zuo-wei-tong-zheng-gong-cheng-gong-xiang-token-engineering-commons-de-shi-ming-yu-dong-ji.md) 
+   
+</details>
+   
 #### 🌱 DAO 治理策略
 
 [DAOrayaki | Gas成本和选民参与](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-gascheng-ben-he-xuan-min-can-yu.md)  
