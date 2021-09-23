@@ -224,7 +224,10 @@ Twitter: @orayakida
 
  </details>
    
-#### 🌱 公共物品、奥斯特罗姆
+ 
+<details>
+<summary> <b> <font size="4">🌱 公共物品、奥斯特罗姆</font> </b>    </summary>  
+
 
 [DAOrayaki｜连续性公共物品资助](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/daorayaki-lian-xu-xing-gong-gong-wu-pin-zi-zhu.md)  
 [可追溯公共物品融资](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/ke-zhui-su-gong-gong-wu-pin-rong-zi.md)  
@@ -236,15 +239,23 @@ Twitter: @orayakida
 [Hackers & Painters, Open Source Projects, NFTs, and Simplified Harberger Tax](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/hackers-painters-open-source-projects-nfts-and-simplified-harberger-tax.md)   
 [Moloch DAO系列一 | 博弈论：利用分布式自治组织战胜公地悲剧](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/molochdaov1.md)   
 
-#### 🌱 NFT、NFT DAO
+</details>
+   
+<details>
+<summary> <b> <font size="4">🌱 NFT、NFT DAO</font> </b>    </summary>     
 
+   
 [极客与画家 | 开源项目、NFT和简化的哈伯格税](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/hackerandpainter.md)  
 [DAOrayaki｜全面概述NFT DAOs 的出现]()  
 [价格发现的艺术，嵌套的策展市场，当联合曲线遇到NFT](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/bonding-curve-and-nft-pricing.md)  
 [策展市场|一种构建联合关注网络的机制](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/ce-zhan-shi-chang-yi-chong-gou-jian-lian-he-guan-zhu-wang-luo-de-ji-zhi.md)  
 [DAOrayaki｜NFT 市场：去中心化的创造力还是 1990 年代的电子商务](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-nft-shi-chang-qu-zhong-xin-hua-de-chuang-zao-li-huan-shi-1990-nian-dai-de-dian-zi-shang-wu.md)  
+   
+</details>
+   
+ <details>
+<summary> <b> <font size="4">🌱 DAO 行业发展/font> </b>    </summary>       
 
-#### 🌱 DAO 行业发展
 
 [DAOrayaki首发| SEC.gov代币安全港提案2.0](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/token-safe-harbor2-0.md)   
 [加密技术的全面论述—开放金融系统](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/jia-mi-ji-zhu-de-quan-mian-lun-shu-kai-fang-jin-rong-xi-tong.md)  
@@ -262,24 +273,39 @@ Twitter: @orayakida
 [深度回顾币安智能链BSC Grant HackerLink第一期](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/review-bsc-grant-round1.md)   
 [波卡生态DAO-as-a-Service基础设施Dora Factory完成两轮融资](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/fundraising.md)   
 [Muse Museum率先加入DAOrayaki Funders MolochDAO并开展联合研究](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/muse-museumlu-xian-jia-ru-daorayaki-funders-molochdaobing-kai-zhan-lian-he-yan-jiu.md)   
+   
+</details>
+    
+ <details>
+<summary> <b> <font size="4">🌱 DAO 媒体/font> </b>    </summary>       
+    
 
-#### 🌱 DAO 媒体
 [DAOrayaki｜打破媒体第四面墙：观众和创作者的融合](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-da-po-mei-ti-di-si-mian-qiang-guan-zhong-he-chuang-zuo-zhe-de-rong-he.md)   
 [DAOrayaki｜去中心化媒体：web 3.0时代民主、隐私与价值共享的机遇](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-qu-zhong-xin-hua-mei-ti-web-3-0shi-dai-min-zhu-yin-si-yu-jie-zhi-gong-xiang-de-ji-yu.md)   
 [DAOrayaki｜文艺复兴时期的创造者和下一个媒体模式的崛起](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-wen-yi-fu-xing-shi-qi-de-chuang-zao-zhe-he-xia-yi-ge-mei-ti-mo-shi-de-jue-qi.md)   
-
+   
 </details>
+    
+</details>
+    
 <details>
    <summary>  👋🌱 <b> <font size="4">DAO 应用专题</font> </b> 🌱👋     </summary>  
    
-#### 🔭 DAO操作系统/基础设施
+<details>
+   <summary>  <b> <font size="4"> 🔭 DAO操作系统/基础设施</font> </b>  </summary>    
+
 [DAOrayaki Research | SubDAO(ENG&CHN) - DAOrayaki](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/daorayaki-research-basketdao-eng-chn-daorayakidaorayakiread-more-posts-by-this-author.md)   
 [DuckDAO&Dora Factory： 为开源项目赋能](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/duckdao-dora-factory.md)   
 [DAOMaker: 代币化的创业孵化器和募资平台](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/daomaker-dai-bi-hua-de-chuang-ye-fu-hua-qi-he-mu-zi-ping-tai.md)   
 [Alchemy：预算、协作和DAO管理的去中心化应用程序](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/alchemy-yu-suan-xie-zuo-he-daoguan-li-de-qu-zhong-xin-hua-ying-yong-cheng-xu.md)   
 [全面解读｜Colony v2：有效降低市场交易成本的DAO基础设施](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/quan-mian-jie-du-colony-v2-you-xiao-jiang-di-shi-chang-jiao-yi-cheng-ben-de-daoji-chu-she-shi.md)  
+   
+</details>
+   
+<details>
+   <summary>  <b> <font size="4"> 🔭 协议DAO</font> </b>  </summary>    
+   
 
-#### 🔭 协议DAO
 [DAOrayaki Research | ElasticDAO(ENG&CHN) - DAOrayaki](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/daorayaki-research-basketdao-eng-chn-daorayaki-2.md)  
 [DAOrayaki Research | DeGate(ENG&CHN) - DAOrayaki](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/daorayaki-research-basketdao-eng-chn-daorayaki-3.md)  
 [DAOrayaki Research | BasketDAO(ENG&CHN) - DAOrayaki](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/daorayaki-research-basketdao-eng-chn-daorayaki.md)  
@@ -290,34 +316,62 @@ Twitter: @orayakida
 [District0x：一个去中心化的市场网络](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/district0x-yi-ge-qu-zhong-xin-hua-de-shi-chang-wang-luo.md)   
 [DAOrayaki｜ECONOMIC SPACE AGENCY ：后资本主义经济表达的协议](https://github.com/DAOrayaki/DAOrayaki-core/tree/develop/2021/2021-Q3/2021-08)   
 
-#### 🔭 投资DAO
+</details>
+   
+<details>
+   <summary>  <b> <font size="4"> 🔭 投资DAO</font> </b>  </summary>    
+     
+
 [DAOrayaki研究｜MolochDAO v1、v2、v3](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/daorayakiyan-jiu-molochdao-v1-v2-v3.md)    
 [Venture DAO生态系统概述](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/venture-daosheng-tai-xi-tong-gai-shu.md)   
+   
+</details>
+ 
+ <details>
+   <summary>  <b> <font size="4"> 🔭 Grant DAO</font> </b>  </summary>    
+    
 
-#### 🔭 Grant DAO
 [DAOrayaki Reserach | ETHDenver& SporkDAO ：黑客马拉松和去中心化区块链应用孵化器](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/daorayaki-reserach-ethdenver-sporkdao-hei-ke-ma-la-song-he-qu-zhong-xin-hua-qu-kuai-lian-ying-yong-fu-hua-qi.md)   
 [全方位解读PANVALA：去中心化的以太坊资助](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/quan-fang-wei-jie-du-panvala-qu-zhong-xin-hua-de-yi-tai-fang-zi-zhu.md)  
 
+</details>
+   
+ <details>
+   <summary>  <b> <font size="4"> 🔭 社交社区DAO</font> </b>  </summary>       
 
-#### 🔭 社交社区DAO
+    
 [DAOrayakiResearch|Subsocial(ENG&CHN) - DAOrayaki](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/daorayaki-research-elasticdao-eng-chn-daorayaki.md)  
 [详解Radicle：去中心化社区的代码协作基础设施](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/xiang-jie-radicle-qu-zhong-xin-hua-she-qu-de-dai-ma-xie-zuo-ji-chu-she-shi.md)   
 [Mastodon: 一个开源、去中心化的社交媒体平台](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/mastodon-yi-ge-kai-yuan-qu-zhong-xin-hua-de-she-jiao-mei-ti-ping-tai.md)   
 [Keep3r : 去中心化协作服务网络](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/keep3r-qu-zhong-xin-hua-xie-zuo-fu-wu-wang-luo.md)   
 [MINDS：不同于Facebook的社交网络平台](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/minds-bu-tong-yu-facebookde-she-jiao-wang-luo-ping-tai.md)    
 [Steemit(STEEM): 基于区块链的激励性社交媒体平台](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/steemit-steem-ji-yu-qu-kuai-lian-de-ji-li-xing-she-jiao-mei-ti-ping-tai.md)   
-
-#### 🔭 媒体DAO
+    
+</details>
+   
+ <details>
+   <summary>  <b> <font size="4"> 🔭 媒体DAO</font> </b>  </summary>       
+   
 [Dora Factory支持去中心化DAO研究组织DAOrayaki](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/dao-media.md)  
+    
+</details>
+   
+ <details>
+   <summary>  <b> <font size="4"> 🔭 收藏DAO</font> </b>  </summary>          
+ 
 
-#### 🔭 收藏DAO
 [DAOrayaki Reserach |FlamingoDAO: 第一个由 LAO 社区孵化和构建的 DAO](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/flamingodao.md)   
 [DAOrayaki Reserach |Jenny Metaverse DAO: 以更低的成本获得真正的数字所有权](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/jenny-metaverse-dao.md)   
 [DAOrayaki｜Loot: 从文本文件到完全去中心化的社区](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/loot-from-a-text-file-to-a-fully-decentralized-community.md)   
 [DAOrayaki｜MetaCartel——一个由创建者和运营商构建去中心化应用的生态系统](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/metacartel-yi-ge-you-chuang-jian-zhe-he-yun-ying-shang-gou-jian-qu-zhong-xin-hua-ying-yong-de-sheng-tai-xi-tong.md)   
 [DAOrayaki Reserach |PleasrDAO: 以代币的形式分配 DAO 的所有权](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/pleasrdao.md)   
+    
+</details>
 
-#### 🔭 服务DAO
+<details>
+   <summary>  <b> <font size="4"> 🔭 服务DAO</font> </b>  </summary>     
+   
+
 [DAOrayaki Research |Cere Network(ENG&CHN) - DAOrayaki](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/daorayaki-research-boson-protocol-eng-chn-daorayaki-2.md)   
 [DAOrayaki Research |Alchemy：区块链开发者工具平台(ENG&CHN)](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/daorayaki-research-the-apis-eng-chn-2.md)   
 [DAOrayaki Research |GovenorDAO：治理即服务(ENG&CHN)](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/daorayaki-research-the-apis-eng-chn.md)   
@@ -325,13 +379,22 @@ Twitter: @orayakida
 [RabbitHole：使用去中心化应用程序赚取奖励](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/rabbithole-shi-yong-qu-zhong-xin-hua-ying-yong-cheng-xu-zhuan-qu-jiang-li.md)   
 [Idavoll Network: DAO基础设施和服务提供商](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/idavoll-network-daoji-chu-she-shi-he-fu-wu-ti-gong-shang.md)   
 [API3 DAOv1：Decentralized APIs for Web 3.0](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/api3-daov1-decentralized-apis-for-web-3-0.md)   
+   
+</details>
+ 
+<details>
+   <summary>  <b> <font size="4"> 🔭 Treasury DAO</font> </b>  </summary>     
+   
 
-#### 🔭 Treasury DAO
 [详解Gnosis Safe: 灵活、安全的数字资产管理工具](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/xiang-jie-gnosis-safe-ling-huo-an-quan-de-shu-zi-zi-chan-guan-li-gong-ju.md)   
 [Parcel: 简化DAO的加密货币资金管理](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/parcel-jian-hua-daode-jia-mi-huo-bi-zi-jin-guan-li.md)   
-[Coordinape: 为DAO提供去中心化的薪资管理](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/coordinape-decentralized-payroll-management-for-daos.md)   
-
-#### 🔭 DAO工具
+[Coordinape: 为DAO提供去中心化的薪资管理](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/coordinape-decentralized-payroll-management-for-daos.md) 
+   
+</details>
+   
+<details>
+   <summary>  <b> <font size="4"> 🔭 DAO工具</font> </b>  </summary>     
+   
 [DoraID — 通用去中心化身份和Staking机制](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/doraid.md)   
 [Boardroom: 通用治理仪表盘与SDK](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/boardroom-tong-yong-zhi-li-yi-biao-pan-yu-sdk.md)   
 [OpenLaw：自动化法律协议](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/openlaw-zi-dong-hua-fa-lu-xie-yi.md)   
@@ -341,11 +404,18 @@ Twitter: @orayakida
 [Sybil: 用于发现委托的治理工具](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/untitled-4.md)   
 [CurveLabs: 为分布式经济设计控制论解决方案](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/untitled-5.md)   
 
-#### 🔭 DeFi DAO
+</details>
+   
+<details>
+   <summary>  <b> <font size="4"> 🔭 DeFi DAO</font> </b>  </summary>       
+
+   
 [Badger: 加速比特币在DeFi中的发展](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/badger-jia-su-bi-te-bi-zai-defizhong-de-fa-zhan.md)   
 [Finane.vote: 民主化DeFi.](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/finane-vote-min-zhu-hua-defi.md)   
 [BanklessDAO: 无银行革命](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/banklessdao.md)   
 
+   </details>
+   
 </details>
 <!-- 
 ## 本项目内容组织方式
