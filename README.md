@@ -111,7 +111,6 @@ Twitter: @orayakida
 
 <details>
    <summary>  👋🌱 <b> <font size="4">DAO DGov专题</font> </b> 🌱👋     </summary>  
-
 -
    
    
@@ -158,7 +157,9 @@ Twitter: @orayakida
    
 </details>
 
-#### 🌱 DAO代币治理
+<details>
+<summary> <b> <font size="4">🌱 DAO代币治理</font> </b>    </summary>  
+
 
 [DAOrayaki｜如何利用社交代币实现长期增长](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/daorayaki-ru-he-li-yong-she-jiao-dai-bi-shi-xian-chang-qi-zeng-chang.md)  
 [DAOrayaki | 代币经济学导论]()  
@@ -169,8 +170,13 @@ Twitter: @orayakida
 [Social token与DAO思潮下微观经济体的崛起](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/social-tokenyu-daosi-chao-xia-wei-guan-jing-ji-ti-de-jue-qi.md)   
 [$WORK 奖励、利益相关者经济学和就业共享的代币化](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/work-jiang-li-li-yi-xiang-guan-zhe-jing-ji-xue-he-jiu-ye-gong-xiang-de-dai-bi-hua.md)   
 [海外最新研讨：数字货币与货币体系的未来](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/hai-wai-zui-xin-yan-tao-shu-zi-huo-bi-yu-huo-bi-ti-xi-de-wei-lai.md)   
+   
+ </details>
 
-#### 🌱 DAO治理攻击
+
+   
+ <details>
+<summary> <b> <font size="4">🌱 DAO治理攻击</font> </b>    </summary>  
 
 [DAOrayaki｜DAO 的漏洞：自治的假想与治理弹性评估模型](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-dao-de-lou-dong-zi-zhi-de-jia-xiang-yu-zhi-li-dan-xing-ping-gu-mo-xing.md)   
 [DAOrayaki｜公地弹性：去中心化技术社区治理中的“弹性”](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-gong-di-dan-xing-qu-zhong-xin-hua-ji-zhu-she-qu-zhi-li-zhong-de-dan-xing.md)   
@@ -181,9 +187,13 @@ Twitter: @orayakida
 [依靠钱包追踪鲸鱼活动](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/yi-kao-qian-bao-zhui-zong-jing-yu-huo-dong.md)   
 [二次方融资（Quadratic Funding）的攻击与防守](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/er-ci-fang-rong-zi-quadratic-funding-de-gong-ji-yu-fang-shou.md)   
 [一份​前瞻性暂停使用The DAO的呼吁（2016.5.27）](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/yi-fen-qian-zhan-xing-zan-ting-shi-yong-the-daode-hu-xu-2016-5-27.md)   
+    
+ </details>
 
-#### 🌱 二次方投票、融资资助
+ <details>
+<summary> <b> <font size="4">🌱 二次方投票、融资资助</font> </b>    </summary>  
 
+    
 [DAOrayaki｜二次方投票与公共物品](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/daorayaki-er-ci-fang-tou-piao-yu-gong-gong-wu-pin.md)  
 [二次方投票和区块链治理](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/er-ci-fang-tou-piao-he-qu-kuai-lian-zhi-li.md)  
 [DAOrayaki｜关于改善配对协调补贴的一个方法探讨](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/daorayaki-guan-yu-gai-shan-pei-dui-xie-diao-bu-tie-de-yi-ge-fang-fa-tan-tao.md)  
@@ -195,9 +205,12 @@ Twitter: @orayakida
 [Quadratic Voting and Funding at ETH Hackathon Beijing](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/quadratic-voting-and-funding-at-eth-hackathon-beijing.md)  
 [社会实验 | 让社区资助爆发巨大能量，当二次方投票遇上黑客马拉松](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/quadratic-voting-2.md)  
 
+</details>
 
-#### 🌱 预测市场
+<details>
+<summary> <b> <font size="4">🌱 预测市场</font> </b>    </summary>  
 
+  
 [预测市场的力量](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/yu-ce-shi-chang-de-li-liang.md)  
 [万字解读| Upshot One 对等预测协议](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/mo-zi-jie-du-upshot-one-dui-deng-yu-ce-xie-yi.md)  
 [买单投票：一种新型的混合代币投票/Futarchy](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/mai-dan-tou-piao-yi-chong-xin-xing-de-hun-he-dai-bi-tou-piao-futarchy.md)  
@@ -209,6 +222,8 @@ Twitter: @orayakida
 [罗宾·汉森经典论文（三）|Futarchy：工程设计25个问题](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/luo-bin-yi-sen-jing-dian-lun-wen.md)  
 [罗宾·汉森经典论文（四）|Futarchy：工程设计25个问题](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/luo-bin-yi-sen-jing-dian-lun-wen-si-futarchy-gong-cheng-she-ji-25ge-wen-ti.md)  
 
+ </details>
+   
 #### 🌱 公共物品、奥斯特罗姆
 
 [DAOrayaki｜连续性公共物品资助](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/daorayaki-lian-xu-xing-gong-gong-wu-pin-zi-zhu.md)  
