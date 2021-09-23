@@ -124,7 +124,6 @@ Twitter: @orayakida
 [DAOs的设计再思考：信任与决策权、风险、剩余索取权的分配]()  
 [如何DAO化|基于社区贡献机会（CCO）机制的去中心化治理](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/ru-he-daohua-ji-yu-she-qu-gong-xian-ji-hui-cco-ji-zhi-de-qu-zhong-xin-hua-zhi-li.md)  
 [通证工程共享（Token Engineering Commons）：分析权益持有者、通证和治理过程](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/tong-zheng-gong-cheng-gong-xiang-token-engineering-commons-fen-xi-quan-yi-chi-you-zhe-tong-zheng-he-zhi-li-guo-cheng.md)   
-[SourceCred：基于贡献的计算信用工具](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/sourcecred-ji-yu-gong-xian-de-ji-suan-xin-yong-gong-ju.md)  
 [价格与预言机](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/jie-ge-yu-yu-yan-ji.md)  
 [道德作为通证工程共享（Token Engineering Commons）的使命与动机](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/dao-de-zuo-wei-tong-zheng-gong-cheng-gong-xiang-token-engineering-commons-de-shi-ming-yu-dong-ji.md) 
    
@@ -405,6 +404,7 @@ Twitter: @orayakida
 [Commonwealth: 面向代币社区的讨论、众筹、治理工具](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/commonwealth-mian-xiang-dai-bi-she-qu-de-tao-lun-zhong-chou-zhi-li-gong-ju.md)   
 [Sybil: 用于发现委托的治理工具](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/untitled-4.md)   
 [CurveLabs: 为分布式经济设计控制论解决方案](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/untitled-5.md)   
+[SourceCred：基于贡献的计算信用工具](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/sourcecred-ji-yu-gong-xian-de-ji-suan-xin-yong-gong-ju.md)  
 
 </details>
    
