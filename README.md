@@ -319,7 +319,7 @@ Twitter: @orayakida
 [DAOrayaki Research | DeGate(ENG&CHN) - DAOrayaki](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/daorayaki-research-basketdao-eng-chn-daorayaki-3.md)  
 [DAOrayaki Research | BasketDAO(ENG&CHN) - DAOrayaki](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/daorayaki-research-basketdao-eng-chn-daorayaki.md)  
 [DAOrayaki Research |The APIS(ENG&CHN) - DAOrayaki](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/daorayaki-research-boson-protocol-eng-chn-daorayaki.md)  
-[DAOrayaki Research |Boson Protocol(ENG&CHN) - DAOrayaki](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/daorayaki-research.md)
+[DAOrayaki Research |Boson Protocol(ENG&CHN) - DAOrayaki](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/daorayaki-research.md)  
 [BarnBridge: 用于对冲收益率敏感性和市场价格的波动衍生品协议](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/barnbridge-yong-yu-dui-chong-shou-yi-lu-min-gan-xing-he-shi-chang-jie-ge-de-bo-dong-yan-sheng-pin-xie-yi.md)  
 [DAOrayaki｜ECONOMIC SPACE AGENCY ：后资本主义经济表达的协议](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/economic-space-agency-protocols-for-post-capitalist-economic-expression.md)  
 [详解Radicle：去中心化社区的代码协作基础设施](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/xiang-jie-radicle-qu-zhong-xin-hua-she-qu-de-dai-ma-xie-zuo-ji-chu-she-shi.md)  
