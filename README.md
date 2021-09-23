@@ -112,7 +112,9 @@ Twitter: @orayakida
 <details>
    <summary>  👋🌱 <b> <font size="4">DAO DGov专题</font> </b> 🌱👋     </summary>  
 
-
+-
+   
+   
 <details>
    <summary> <b> <font size="4">🌱 DAO的构建与设计 </font> </b>    </summary>  
    
@@ -129,7 +131,9 @@ Twitter: @orayakida
    
 </details>
    
-#### 🌱 DAO 治理策略
+   
+<details>
+<summary> <b> <font size="4">🌱 DAO 治理策略 </font> </b>    </summary>  
 
 [DAOrayaki | Gas成本和选民参与](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-gascheng-ben-he-xuan-min-can-yu.md)  
 [DAOrayaki｜PoolHAUS与去中心化流动性供应](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/daorayaki-poolhausyu-qu-zhong-xin-hua-liu-dong-xing-gong-ying.md)  
@@ -139,13 +143,20 @@ Twitter: @orayakida
 [Synthetix：去中心化治理结构](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/synthetix-qu-zhong-xin-hua-zhi-li-jie-gou.md)  
 [DAO 联盟|Open DeFi DAO 治理结构](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/dao-lian-meng-open-defi-dao-zhi-li-jie-gou.md)  
 [有多巴胺分泌的DAO治理协议的综述——引言（2021版）](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/daoresearch.md)  
+   
+</details>
+   
+ 
+<details>
+<summary> <b> <font size="4">🌱 DAO 投票治理 </font> </b>    </summary>  
 
-#### 🌱 DAO 投票治理
 
 [DAOrayaki｜Vitalik Buterin：超越代币投票的治理](https://github.com/DAOrayaki/DAOrayaki-core/tree/develop/2021/2021-Q3/2021-08)  
 [可选用的DAOs投票机制汇总](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/ke-xuan-yong-de-daostou-piao-ji-zhi-hui-zong.md)  
 [价格敞口和投票权](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/jie-ge-chang-kou-he-tou-piao-quan.md)  
 [去中心化仲裁：Kleros、Aragon、Jur](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/qu-zhong-xin-hua-zhong-cai-kleros-aragon-jur.md)  
+   
+</details>
 
 #### 🌱 DAO代币治理
 
