@@ -242,7 +242,7 @@ Twitter: @orayakida
 </details>
    
 <details>
-<summary> <b> <font size="4">🌱 NFT、NFT DAO</font> </b>    </summary>     
+<summary> <b> <font size="4">🌱 NFT、NFT DAO </font> </b>    </summary>     
 
    
 [极客与画家 | 开源项目、NFT和简化的哈伯格税](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/hackerandpainter.md)  
@@ -254,7 +254,7 @@ Twitter: @orayakida
 </details>
    
  <details>
-<summary> <b> <font size="4">🌱 DAO 行业发展/font> </b>    </summary>       
+<summary> <b> <font size="4">🌱 DAO 行业发展 </font> </b>    </summary>       
 
 
 [DAOrayaki首发| SEC.gov代币安全港提案2.0](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/token-safe-harbor2-0.md)   
@@ -277,7 +277,7 @@ Twitter: @orayakida
 </details>
     
  <details>
-<summary> <b> <font size="4">🌱 DAO 媒体/font> </b>    </summary>       
+<summary> <b> <font size="4">🌱 DAO 媒体 </font> </b>    </summary>       
     
 
 [DAOrayaki｜打破媒体第四面墙：观众和创作者的融合](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-da-po-mei-ti-di-si-mian-qiang-guan-zhong-he-chuang-zuo-zhe-de-rong-he.md)   
