@@ -115,7 +115,7 @@ Twitter: @orayakida
    
    
 <details>
-   <summary> <b> <font size="4">&nbsp;&nbsp;&nbsp;&nbsp;🌱 DAO的构建与设计 </font> </b>    </summary>  
+   <summary> <b> <font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 DAO的构建与设计 </font> </b>    </summary>  
    
 [什么是社区贡献机会（CCO）](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/shi-yao-shi-she-qu-gong-xian-ji-hui-cco.md)  
 [DAO治理中的同构性](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/daozhi-li-zhong-de-tong-gou-xing.md)  
@@ -132,7 +132,7 @@ Twitter: @orayakida
    
    
 <details>
-<summary> <b> <font size="4">    🌱 DAO 治理策略 </font> </b>    </summary>  
+<summary> <b> <font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 DAO 治理策略 </font> </b>    </summary>  
 
 [DAOrayaki | Gas成本和选民参与](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-gascheng-ben-he-xuan-min-can-yu.md)  
 [DAOrayaki｜PoolHAUS与去中心化流动性供应](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/daorayaki-poolhausyu-qu-zhong-xin-hua-liu-dong-xing-gong-ying.md)  
@@ -147,7 +147,7 @@ Twitter: @orayakida
    
  
 <details>
-<summary> <b> <font size="4">🌱 DAO 投票治理 </font> </b>    </summary>  
+<summary> <b> <font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 DAO 投票治理 </font> </b>    </summary>  
 
 
 [DAOrayaki｜Vitalik Buterin：超越代币投票的治理](https://github.com/DAOrayaki/DAOrayaki-core/tree/develop/2021/2021-Q3/2021-08)  
@@ -158,7 +158,7 @@ Twitter: @orayakida
 </details>
 
 <details>
-<summary> <b> <font size="4">🌱 DAO代币治理</font> </b>    </summary>  
+<summary> <b> <font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 DAO代币治理</font> </b>    </summary>  
 
 
 [DAOrayaki｜如何利用社交代币实现长期增长](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/daorayaki-ru-he-li-yong-she-jiao-dai-bi-shi-xian-chang-qi-zeng-chang.md)  
@@ -176,7 +176,7 @@ Twitter: @orayakida
 
    
  <details>
-<summary> <b> <font size="4">🌱 DAO治理攻击</font> </b>    </summary>  
+<summary> <b> <font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 DAO治理攻击</font> </b>    </summary>  
 
 [DAOrayaki｜DAO 的漏洞：自治的假想与治理弹性评估模型](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-dao-de-lou-dong-zi-zhi-de-jia-xiang-yu-zhi-li-dan-xing-ping-gu-mo-xing.md)   
 [DAOrayaki｜公地弹性：去中心化技术社区治理中的“弹性”](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-gong-di-dan-xing-qu-zhong-xin-hua-ji-zhu-she-qu-zhi-li-zhong-de-dan-xing.md)   
@@ -191,7 +191,7 @@ Twitter: @orayakida
  </details>
 
  <details>
-<summary> <b> <font size="4">🌱 二次方投票、融资资助</font> </b>    </summary>  
+<summary> <b> <font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 二次方投票、融资资助</font> </b>    </summary>  
 
     
 [DAOrayaki｜二次方投票与公共物品](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/daorayaki-er-ci-fang-tou-piao-yu-gong-gong-wu-pin.md)  
@@ -208,7 +208,7 @@ Twitter: @orayakida
 </details>
 
 <details>
-<summary> <b> <font size="4">🌱 预测市场</font> </b>    </summary>  
+<summary> <b> <font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 预测市场</font> </b>    </summary>  
 
   
 [预测市场的力量](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/yu-ce-shi-chang-de-li-liang.md)  
@@ -226,7 +226,7 @@ Twitter: @orayakida
    
  
 <details>
-<summary> <b> <font size="4">🌱 公共物品、奥斯特罗姆</font> </b>    </summary>  
+<summary> <b> <font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 公共物品、奥斯特罗姆</font> </b>    </summary>  
 
 
 [DAOrayaki｜连续性公共物品资助](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-08/daorayaki-lian-xu-xing-gong-gong-wu-pin-zi-zhu.md)  
@@ -242,7 +242,7 @@ Twitter: @orayakida
 </details>
    
 <details>
-<summary> <b> <font size="4">🌱 NFT、NFT DAO </font> </b>    </summary>     
+<summary> <b> <font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 NFT、NFT DAO </font> </b>    </summary>     
 
    
 [极客与画家 | 开源项目、NFT和简化的哈伯格税](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/hackerandpainter.md)  
@@ -254,7 +254,7 @@ Twitter: @orayakida
 </details>
    
  <details>
-<summary> <b> <font size="4">🌱 DAO 行业发展 </font> </b>    </summary>       
+<summary> <b> <font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 DAO 行业发展 </font> </b>    </summary>       
 
 
 [DAOrayaki首发| SEC.gov代币安全港提案2.0](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/token-safe-harbor2-0.md)   
@@ -277,7 +277,7 @@ Twitter: @orayakida
 </details>
     
  <details>
-<summary> <b> <font size="4">🌱 DAO 媒体 </font> </b>    </summary>       
+<summary> <b> <font size="4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 DAO 媒体 </font> </b>    </summary>       
     
 
 [DAOrayaki｜打破媒体第四面墙：观众和创作者的融合](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-da-po-mei-ti-di-si-mian-qiang-guan-zhong-he-chuang-zuo-zhe-de-rong-he.md)   
@@ -294,7 +294,7 @@ Twitter: @orayakida
    
    
 <details>
-   <summary>  <b> <font size="4"> 🔭 DAO操作系统/基础设施</font> </b>  </summary>    
+   <summary>  <b> <font size="4"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔭 DAO操作系统/基础设施</font> </b>  </summary>    
 
 [DAOrayaki Research | SubDAO(ENG&CHN) - DAOrayaki](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/daorayaki-research-basketdao-eng-chn-daorayakidaorayakiread-more-posts-by-this-author.md)   
 [DuckDAO&Dora Factory： 为开源项目赋能](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/duckdao-dora-factory.md)   
@@ -305,7 +305,7 @@ Twitter: @orayakida
 </details>
    
 <details>
-   <summary>  <b> <font size="4"> 🔭 协议DAO</font> </b>  </summary>    
+   <summary>  <b> <font size="4"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔭 协议DAO</font> </b>  </summary>    
    
 
 [DAOrayaki Research | ElasticDAO(ENG&CHN) - DAOrayaki](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/daorayaki-research-basketdao-eng-chn-daorayaki-2.md)  
@@ -321,7 +321,7 @@ Twitter: @orayakida
 </details>
    
 <details>
-   <summary>  <b> <font size="4"> 🔭 投资DAO</font> </b>  </summary>    
+   <summary>  <b> <font size="4"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔭 投资DAO</font> </b>  </summary>    
      
 
 [DAOrayaki研究｜MolochDAO v1、v2、v3](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/daorayakiyan-jiu-molochdao-v1-v2-v3.md)    
@@ -330,7 +330,7 @@ Twitter: @orayakida
 </details>
  
  <details>
-   <summary>  <b> <font size="4"> 🔭 Grant DAO</font> </b>  </summary>    
+   <summary>  <b> <font size="4"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔭 Grant DAO</font> </b>  </summary>    
     
 
 [DAOrayaki Reserach | ETHDenver& SporkDAO ：黑客马拉松和去中心化区块链应用孵化器](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/daorayaki-reserach-ethdenver-sporkdao-hei-ke-ma-la-song-he-qu-zhong-xin-hua-qu-kuai-lian-ying-yong-fu-hua-qi.md)   
@@ -339,7 +339,7 @@ Twitter: @orayakida
 </details>
    
  <details>
-   <summary>  <b> <font size="4"> 🔭 社交社区DAO</font> </b>  </summary>       
+   <summary>  <b> <font size="4"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔭 社交社区DAO</font> </b>  </summary>       
 
     
 [DAOrayakiResearch|Subsocial(ENG&CHN) - DAOrayaki](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/daorayaki-research-elasticdao-eng-chn-daorayaki.md)  
@@ -352,14 +352,14 @@ Twitter: @orayakida
 </details>
    
  <details>
-   <summary>  <b> <font size="4"> 🔭 媒体DAO</font> </b>  </summary>       
+   <summary>  <b> <font size="4"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔭 媒体DAO</font> </b>  </summary>       
    
 [Dora Factory支持去中心化DAO研究组织DAOrayaki](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/dao-media.md)  
     
 </details>
    
  <details>
-   <summary>  <b> <font size="4"> 🔭 收藏DAO</font> </b>  </summary>          
+   <summary>  <b> <font size="4"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔭 收藏DAO</font> </b>  </summary>          
  
 
 [DAOrayaki Reserach |FlamingoDAO: 第一个由 LAO 社区孵化和构建的 DAO](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/flamingodao.md)   
@@ -371,7 +371,7 @@ Twitter: @orayakida
 </details>
 
 <details>
-   <summary>  <b> <font size="4"> 🔭 服务DAO</font> </b>  </summary>     
+   <summary>  <b> <font size="4"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔭 服务DAO</font> </b>  </summary>     
    
 
 [DAOrayaki Research |Cere Network(ENG&CHN) - DAOrayaki](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/daorayaki-research-boson-protocol-eng-chn-daorayaki-2.md)   
@@ -385,7 +385,7 @@ Twitter: @orayakida
 </details>
  
 <details>
-   <summary>  <b> <font size="4"> 🔭 Treasury DAO</font> </b>  </summary>     
+   <summary>  <b> <font size="4"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔭 Treasury DAO</font> </b>  </summary>     
    
 
 [详解Gnosis Safe: 灵活、安全的数字资产管理工具](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/xiang-jie-gnosis-safe-ling-huo-an-quan-de-shu-zi-zi-chan-guan-li-gong-ju.md)   
@@ -395,7 +395,7 @@ Twitter: @orayakida
 </details>
    
 <details>
-   <summary>  <b> <font size="4"> 🔭 DAO工具</font> </b>  </summary>     
+   <summary>  <b> <font size="4"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔭 DAO工具</font> </b>  </summary>     
    
 [DoraID — 通用去中心化身份和Staking机制](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/doraid.md)   
 [Boardroom: 通用治理仪表盘与SDK](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/boardroom-tong-yong-zhi-li-yi-biao-pan-yu-sdk.md)   
@@ -409,7 +409,7 @@ Twitter: @orayakida
 </details>
    
 <details>
-   <summary>  <b> <font size="4"> 🔭 DeFi DAO</font> </b>  </summary>       
+   <summary>  <b> <font size="4"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔭 DeFi DAO</font> </b>  </summary>       
 
    
 [Badger: 加速比特币在DeFi中的发展](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/badger-jia-su-bi-te-bi-zai-defizhong-de-fa-zhan.md)   
