@@ -294,7 +294,7 @@ Twitter: @orayakida
    
    
 <details>
-   <summary>  <b> <font size="4"> 🔭 DAO操作系统/基础设施</font> </b>  </summary>    
+   <summary>  <b> <font size="4"> - 🔭 DAO操作系统/基础设施</font> </b>  </summary>    
 
 [DAOrayaki Research | SubDAO(ENG&CHN) - DAOrayaki](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/daorayaki-research-basketdao-eng-chn-daorayakidaorayakiread-more-posts-by-this-author.md)   
 [DuckDAO&Dora Factory： 为开源项目赋能](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/duckdao-dora-factory.md)   
@@ -305,7 +305,7 @@ Twitter: @orayakida
 </details>
    
 <details>
-   <summary>  <b> <font size="4"> 🔭 协议DAO</font> </b>  </summary>    
+   <summary>  <b> <font size="4"> - 🔭 协议DAO</font> </b>  </summary>    
    
 
 [DAOrayaki Research | ElasticDAO(ENG&CHN) - DAOrayaki](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/daorayaki-research-basketdao-eng-chn-daorayaki-2.md)  
