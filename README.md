@@ -201,7 +201,7 @@ Twitter: @orayakida
 [二次方资助V2协议:链上反女巫、公平性和可扩展性](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-07/er-ci-fang-zi-zhu-v2xie-yi-lian-shang-fan-nu-wu-gong-ping-xing-he-ke-kuo-zhan-xing.md)  
 [Dora Factory Eric Zhang：使用累进税系统提高二次方资助的公平性](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/dora-factory-eric-zhang-shi-yong-lei-jin-shui-xi-tong-ti-gao-er-ci-fang-zi-zhu-de-gong-ping-xing.md)  
 [二次方融资（Quadratic Funding）的攻击与防守](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/er-ci-fang-rong-zi-quadratic-funding-de-gong-ji-yu-fang-shou.md)  
-<!-- [Quadratic Voting and Funding at ETH Hackathon Beijing](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/quadratic-voting-and-funding-at-eth-hackathon-beijing.md)   -->
+<!-- [Quadratic Voting and Funding at ETH Hackathon Beijing](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/quadratic-voting-and-funding-at-eth-hackathon-beijing.md) -->
 [社会实验 | 让社区资助爆发巨大能量，当二次方投票遇上黑客马拉松](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/quadratic-voting-2.md)  
 
 </details>
@@ -235,7 +235,7 @@ Twitter: @orayakida
 [DAOrayaki｜公地弹性：去中心化技术社区治理中的“弹性”](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q3/2021-09/daorayaki-gong-di-dan-xing-qu-zhong-xin-hua-ji-zhu-she-qu-zhi-li-zhong-de-dan-xing.md)  
 [自动化奥斯特罗姆（Ostrom）以实现有效的DAO管理](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/zi-dong-hua-ao-si-te-luo-mu-ostrom-yi-shi-xian-you-xiao-de-daoguan-li.md)  
 [公共事务的治理之道：集体行动制度的演进【美】埃莉诺·奥斯特罗姆（Elinor Ostrom）](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-06/untitled-3.md)  
-<!-- [Hackers & Painters, Open Source Projects, NFTs, and Simplified Harberger Tax](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/hackers-painters-open-source-projects-nfts-and-simplified-harberger-tax.md)    -->
+<!-- [Hackers & Painters, Open Source Projects, NFTs, and Simplified Harberger Tax](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-04/hackers-painters-open-source-projects-nfts-and-simplified-harberger-tax.md)-->
 [Moloch DAO系列一 | 博弈论：利用分布式自治组织战胜公地悲剧](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/2021/2021-Q2/2021-05/molochdaov1.md)   
 
 </details>
