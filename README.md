@@ -1,4 +1,4 @@
-# DAOrayaki 
+# DAOrayaki.eth
 [Switch to English](https://github.com/DAOrayaki/DAOrayaki-core/blob/develop/README_EN.md)
 
 <details>
